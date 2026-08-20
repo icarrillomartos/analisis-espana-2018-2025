@@ -1,0 +1,10 @@
+{
+  "delta_detenidos_total": 182283.0,
+  "delta_detenidos_espanoles": 64405.0,
+  "delta_detenidos_extranjeros": 117878.0,
+  "pct_del_aumento_atribuible_grupo_extranjero": 64.66757733853403,
+  "efecto_poblacion": 41843.59217900773,
+  "efecto_tasa": 53524.89597898093,
+  "efecto_interaccion": 22509.51184201136,
+  "comprobacion_suma": 117878.00000000001
+}

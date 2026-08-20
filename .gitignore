@@ -1,0 +1,9 @@
+.DS_Store
+.venv/
+__pycache__/
+*.py[cod]
+
+# GitHub rechaza ficheros individuales de más de 100 MB. El original se
+# distribuye al lado como .json.gz y se restaura con scripts/00_prepare_data.py.
+data_raw/demografia_economia/ine_70364_2018_2025.json
+

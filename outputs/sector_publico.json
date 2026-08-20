@@ -1,0 +1,213 @@
+{
+ "ingresos_2018": 472250.0,
+ "ingresos_2024": 673734.0,
+ "delta": 201484.0,
+ "var_pct": 42.66469031233457,
+ "identidad_check": 1.4264365921241087,
+ "componentes": [
+  {
+   "nombre": "Economía real más grande",
+   "factor_pct": 9.23050177646354,
+   "cuota": 24.847588684873333,
+   "euros": 50063.91558583019
+  },
+  {
+   "nombre": "Subida de precios",
+   "factor_pct": 20.401745245727753,
+   "cuota": 52.25156298660598,
+   "euros": 105278.5391679332
+  },
+  {
+   "nombre": "Mayor porcentaje del PIB detraído",
+   "factor_pct": 8.461538461538453,
+   "cuota": 22.859357753467247,
+   "euros": 46057.94837599595
+  }
+ ],
+ "reales": {
+  "ingresos": {
+   "nom_pct": 42.66469031233457,
+   "real_pct": 19.539562597921556,
+   "real_pc_pct": 14.684620402275916
+  },
+  "proteccion_social": {
+   "nom_pct": 46.22892809750822,
+   "real_pct": 22.526057889095963,
+   "real_pc_pct": 17.549823113060125
+  },
+  "sanidad": {
+   "nom_pct": 42.6856651789427,
+   "real_pct": 19.557137559002634,
+   "real_pc_pct": 14.701481579415642
+  },
+  "educacion": {
+   "nom_pct": 37.89046143539068,
+   "real_pct": 15.539208828234097,
+   "real_pc_pct": 10.846735742328239
+  },
+  "gasto_total": {
+   "nom_pct": 44.080104452963376,
+   "real_pct": 20.725546227754954,
+   "real_pc_pct": 15.822436866003908
+  }
+ },
+ "proteccion_social_detalle": [
+  {
+   "concepto": "Vejez (pensiones de jubilación)",
+   "v2018": 112641.0,
+   "v2024": 165050.0,
+   "delta": 52409.0,
+   "var_pct": 46.52746335703697,
+   "cuota_del_aumento": 55.71750547511216,
+   "pct_del_total_2024": 55.47302475027897
+  },
+  {
+   "concepto": "Enfermedad e incapacidad",
+   "v2018": 29376.0,
+   "v2024": 44019.0,
+   "delta": 14643.0,
+   "var_pct": 49.8468137254902,
+   "cuota_del_aumento": 15.567391720354658,
+   "pct_del_total_2024": 14.794711157119234
+  },
+  {
+   "concepto": "Supervivencia (viudedad y orfandad)",
+   "v2018": 26736.0,
+   "v2024": 35425.0,
+   "delta": 8689.0,
+   "var_pct": 32.49925194494314,
+   "cuota_del_aumento": 9.237524186175076,
+   "pct_del_total_2024": 11.90628234946157
+  },
+  {
+   "concepto": "Desempleo",
+   "v2018": 18647.0,
+   "v2024": 24077.0,
+   "delta": 5430.0,
+   "var_pct": 29.11996567812516,
+   "cuota_del_aumento": 5.772788161000191,
+   "pct_del_total_2024": 8.092238818009491
+  },
+  {
+   "concepto": "Familia e hijos",
+   "v2018": 9981.0,
+   "v2024": 15294.0,
+   "delta": 5313.0,
+   "var_pct": 53.231139164412376,
+   "cuota_del_aumento": 5.648402117752121,
+   "pct_del_total_2024": 5.140287431267898
+  },
+  {
+   "concepto": "Exclusión social (incluye el Ingreso Mínimo Vital)",
+   "v2018": 4079.0,
+   "v2024": 10878.0,
+   "delta": 6799.0,
+   "var_pct": 166.6830105417995,
+   "cuota_del_aumento": 7.228211179860092,
+   "pct_del_total_2024": 3.6560773294973314
+  },
+  {
+   "concepto": "Protección social no clasificada",
+   "v2018": 1644.0,
+   "v2024": 2127.0,
+   "delta": 483.0,
+   "var_pct": 29.379562043795616,
+   "cuota_del_aumento": 0.5134911016138292,
+   "pct_del_total_2024": 0.7148810884207413
+  },
+  {
+   "concepto": "Vivienda social",
+   "v2018": 366.0,
+   "v2024": 657.0,
+   "delta": 291.0,
+   "var_pct": 79.50819672131149,
+   "cuota_del_aumento": 0.3093704152580213,
+   "pct_del_total_2024": 0.22081658443461544
+  }
+ ],
+ "proteccion_social_total": {
+  "v2018": 203470.0,
+  "v2024": 297532.0,
+  "delta": 94062.0
+ },
+ "comparativa_fiscal_europa": [
+  {
+   "pais": "UE-27",
+   "geo": "EU27_2020",
+   "ing2018": 46.3,
+   "ing2024": 46.0,
+   "ing_dif": -0.29999999999999716,
+   "ps2018": 19.1,
+   "ps2024": 19.6,
+   "san2024": 7.4,
+   "saldo2024": -3.1,
+   "deuda2018": 79.5,
+   "deuda2024": 80.7
+  },
+  {
+   "pais": "España",
+   "geo": "ES",
+   "ing2018": 39.0,
+   "ing2024": 42.3,
+   "ing_dif": 3.299999999999997,
+   "ps2018": 16.8,
+   "ps2024": 18.7,
+   "san2024": 6.5,
+   "saldo2024": -3.2,
+   "deuda2018": 99.8,
+   "deuda2024": 101.6
+  },
+  {
+   "pais": "Alemania",
+   "geo": "DE",
+   "ing2018": 46.5,
+   "ing2024": 46.8,
+   "ing_dif": 0.29999999999999716,
+   "ps2018": 18.9,
+   "ps2024": 20.4,
+   "san2024": 7.6,
+   "saldo2024": -2.7,
+   "deuda2018": 60.8,
+   "deuda2024": 62.2
+  },
+  {
+   "pais": "Francia",
+   "geo": "FR",
+   "ing2018": 54.0,
+   "ing2024": 51.2,
+   "ing_dif": -2.799999999999997,
+   "ps2018": 24.0,
+   "ps2024": 23.7,
+   "san2024": 8.9,
+   "saldo2024": -5.8,
+   "deuda2018": 98.5,
+   "deuda2024": 112.6
+  },
+  {
+   "pais": "Italia",
+   "geo": "IT",
+   "ing2018": 46.1,
+   "ing2024": 47.0,
+   "ing_dif": 0.8999999999999986,
+   "ps2018": 20.6,
+   "ps2024": 21.3,
+   "san2024": 6.6,
+   "saldo2024": -3.4,
+   "deuda2018": 134.2,
+   "deuda2024": 134.7
+  },
+  {
+   "pais": "Portugal",
+   "geo": "PT",
+   "ing2018": 42.9,
+   "ing2024": 43.0,
+   "ing_dif": 0.10000000000000142,
+   "ps2018": 17.0,
+   "ps2024": 17.1,
+   "san2024": 6.8,
+   "saldo2024": 0.6,
+   "deuda2018": 121.1,
+   "deuda2024": 93.5
+  }
+ ]
+}

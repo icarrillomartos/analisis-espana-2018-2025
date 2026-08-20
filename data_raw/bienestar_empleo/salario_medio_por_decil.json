@@ -1,0 +1,1960 @@
+[
+  {
+    "COD": "MYH1042",
+    "Nombre": "Total. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298238,
+        "T3_Variable": "Percentiles simples",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2593.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2467.9
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2294.9
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2261.8
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 2210.3
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2173.6
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2161.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH1041",
+    "Nombre": "Total. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298238,
+        "T3_Variable": "Percentiles simples",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2163.2
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2063.2
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1928.6
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1876.4
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1852.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1773.3
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1708.4
+      }
+    ]
+  },
+  {
+    "COD": "MYH1040",
+    "Nombre": "Decil 1. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298395,
+        "T3_Variable": "Semiintervalos de percentiles",
+        "Nombre": "Decil 1",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 709.6
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 672.8
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 649.8
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 595.5
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 551.7
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 551.6
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 507.2
+      }
+    ]
+  },
+  {
+    "COD": "MYH1039",
+    "Nombre": "Decil 1. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298395,
+        "T3_Variable": "Semiintervalos de percentiles",
+        "Nombre": "Decil 1",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 710.4
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 635.8
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 610.4
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 556.1
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 510.9
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 525.7
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 470.7
+      }
+    ]
+  },
+  {
+    "COD": "MYH1036",
+    "Nombre": "Decil 2. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298396,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 2",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1295.8
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1222.4
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1142.7
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1048.8
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1014.6
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1006.8
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 911.0
+      }
+    ]
+  },
+  {
+    "COD": "MYH1035",
+    "Nombre": "Decil 2. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298396,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 2",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1272.4
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1201.9
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1125.7
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1025.5
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1001.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 987.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 901.6
+      }
+    ]
+  },
+  {
+    "COD": "MYH1034",
+    "Nombre": "Decil 3. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298397,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 3",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1489.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1437.4
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1339.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1257.5
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1240.7
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1222.9
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1158.6
+      }
+    ]
+  },
+  {
+    "COD": "MYH1033",
+    "Nombre": "Decil 3. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298397,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 3",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1488.2
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1431.4
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1338.6
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1256.4
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1233.7
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1222.1
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1154.9
+      }
+    ]
+  },
+  {
+    "COD": "MYH1032",
+    "Nombre": "Decil 4. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298398,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 4",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1684.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1633.7
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1525.7
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1457.6
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1425.4
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1419.3
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1360.6
+      }
+    ]
+  },
+  {
+    "COD": "MYH1031",
+    "Nombre": "Decil 4. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298398,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 4",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1678.8
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1628.9
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1520.2
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1451.9
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1421.4
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1416.9
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1354.0
+      }
+    ]
+  },
+  {
+    "COD": "MYH1030",
+    "Nombre": "Decil 5. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298399,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 5",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1888.5
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1833.9
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1711.9
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1654.1
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1608.4
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1597.8
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1546.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH1029",
+    "Nombre": "Decil 5. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298399,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 5",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 1889.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 1834.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1703.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1650.4
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1604.7
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1591.4
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1547.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH1028",
+    "Nombre": "Decil 6. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298400,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 6",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2131.7
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2058.5
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1911.5
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1863.4
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1816.3
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1792.9
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1752.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH1027",
+    "Nombre": "Decil 6. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298400,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 6",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2127.4
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2061.2
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 1916.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1869.9
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1817.8
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1794.6
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1753.1
+      }
+    ]
+  },
+  {
+    "COD": "MYH1026",
+    "Nombre": "Decil 7. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298401,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 7",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2446.5
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2356.5
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2182.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2147.3
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 2106.9
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2059.8
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2017.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH1025",
+    "Nombre": "Decil 7. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298401,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 7",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2450.4
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2357.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2181.5
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2149.1
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 2108.1
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2056.2
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2017.6
+      }
+    ]
+  },
+  {
+    "COD": "MYH1024",
+    "Nombre": "Decil 8. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298402,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 8",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2905.5
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2780.8
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2585.9
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2549.1
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 2534.9
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2440.7
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2420.1
+      }
+    ]
+  },
+  {
+    "COD": "MYH1023",
+    "Nombre": "Decil 8. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298402,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 8",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2926.1
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2783.2
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2601.3
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2569.6
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 2549.3
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2454.4
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2424.9
+      }
+    ]
+  },
+  {
+    "COD": "MYH1022",
+    "Nombre": "Decil 9. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298403,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 9",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 3569.8
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 3388.5
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 3165.3
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 3152.9
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 3169.3
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 3038.5
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 3006.6
+      }
+    ]
+  },
+  {
+    "COD": "MYH1021",
+    "Nombre": "Decil 9. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298403,
+        "T3_Variable": "Grupos de percentiles",
+        "Nombre": "Decil 9",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 3564.2
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 3393.3
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 3181.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 3131.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 3148.9
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 3031.3
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 3005.6
+      }
+    ]
+  },
+  {
+    "COD": "MYH1038",
+    "Nombre": "Decil 10. Hombres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298408,
+        "T3_Variable": "Semiintervalos de percentiles",
+        "Nombre": "Decil 10",
+        "Codigo": ""
+      },
+      {
+        "Id": 452,
+        "T3_Variable": "Sexo",
+        "Nombre": "Hombres",
+        "Codigo": "1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 5769.9
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 5432.3
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 5055.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 5117.5
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 5037.9
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 4820.3
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 4889.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH1037",
+    "Nombre": "Decil 10. Mujeres. España. Dato base. Salario medio. ",
+    "T3_Unidad": "Euros",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 298408,
+        "T3_Variable": "Semiintervalos de percentiles",
+        "Nombre": "Decil 10",
+        "Codigo": ""
+      },
+      {
+        "Id": 453,
+        "T3_Variable": "Sexo",
+        "Nombre": "Mujeres",
+        "Codigo": "6"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 298407,
+        "T3_Variable": "Conceptos salariales/laborales",
+        "Nombre": "Salario medio",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 5690.6
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 5311.9
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 4912.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 5027.3
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 4848.4
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 4564.7
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 4637.7
+      }
+    ]
+  }
+]

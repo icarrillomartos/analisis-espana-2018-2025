@@ -1,0 +1,5706 @@
+{
+ "indicadores": [
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población residente en España",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 46645070.0,
+   "valor_fin": 49128297.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 5.323664430131636,
+   "var_abs": 2483227.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     46645070.0
+    ],
+    [
+     2019,
+     46918951.0
+    ],
+    [
+     2020,
+     47318050.0
+    ],
+    [
+     2021,
+     47400798.0
+    ],
+    [
+     2022,
+     47486727.0
+    ],
+    [
+     2023,
+     48085361.0
+    ],
+    [
+     2024,
+     48619695.0
+    ],
+    [
+     2025,
+     49128297.0
+    ]
+   ],
+   "fuente": "INE, Cifras de Población / Censo anual · tabla 56942 · población a 1 de enero",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población nacida en España",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 40459614.470431,
+   "valor_fin": 39664087.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -1.9662260277156007,
+   "var_abs": -795527.470431,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     40459614.470431
+    ],
+    [
+     2019,
+     40398099.438366
+    ],
+    [
+     2020,
+     40335788.732764
+    ],
+    [
+     2021,
+     40146001.0
+    ],
+    [
+     2022,
+     40018611.0
+    ],
+    [
+     2023,
+     39881155.0
+    ],
+    [
+     2024,
+     39781461.0
+    ],
+    [
+     2025,
+     39664087.0
+    ]
+   ],
+   "fuente": "INE · tabla 9675 (2018) y tabla 70364, Censo anual (2025) · 1 de enero",
+   "nota": "Serie enlazada: 2018 procede de Cifras de Población y 2025 del Censo anual. En el solape (2021-2022) la diferencia entre ambas fuentes es de 40.000 a 103.000 personas.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población nacida en el extranjero",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 6198832.101939,
+   "valor_fin": 9464210.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 52.67730831166708,
+   "var_abs": 3265377.898061,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     6198832.101939
+    ],
+    [
+     2019,
+     6538960.439632997
+    ],
+    [
+     2020,
+     6996825.155426003
+    ],
+    [
+     2021,
+     7254797.0
+    ],
+    [
+     2022,
+     7468116.0
+    ],
+    [
+     2023,
+     8204206.0
+    ],
+    [
+     2024,
+     8838234.0
+    ],
+    [
+     2025,
+     9464210.0
+    ]
+   ],
+   "fuente": "INE · tabla 9675 (2018) y tabla 70364, Censo anual (2025) · 1 de enero",
+   "nota": "País de nacimiento, que es la variable correcta para aproximar origen migratorio. Serie enlazada; ver nota anterior.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Peso de los nacidos en el extranjero sobre el total",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 13.285551828915365,
+   "valor_fin": 19.26427451779979,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 45.00168879603499,
+   "var_abs": 5.978722688884426,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     13.285551828915365
+    ],
+    [
+     2019,
+     13.93133795902293
+    ],
+    [
+     2020,
+     14.782249659725183
+    ],
+    [
+     2021,
+     15.30522123277334
+    ],
+    [
+     2022,
+     15.726744022598146
+    ],
+    [
+     2023,
+     17.061753992030965
+    ],
+    [
+     2024,
+     18.17829996671102
+    ],
+    [
+     2025,
+     19.26427451779979
+    ]
+   ],
+   "fuente": "INE · tablas 9675 y 70364",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población con nacionalidad española",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 42067748.0,
+   "valor_fin": 42216326.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 0.3531874347065145,
+   "var_abs": 148578.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     42067748.0
+    ],
+    [
+     2019,
+     42068189.0
+    ],
+    [
+     2020,
+     42076772.0
+    ],
+    [
+     2021,
+     41998096.0
+    ],
+    [
+     2022,
+     41977681.0
+    ],
+    [
+     2023,
+     41995741.0
+    ],
+    [
+     2024,
+     42117413.0
+    ],
+    [
+     2025,
+     42216326.0
+    ]
+   ],
+   "fuente": "INE, Cifras de Población / Censo anual · tabla 56942 · población a 1 de enero",
+   "nota": "Nacionalidad jurídica, no origen: incluye a las personas nacidas fuera que se han nacionalizado.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población con nacionalidad extranjera",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 4577322.0,
+   "valor_fin": 6911971.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 51.0046922632928,
+   "var_abs": 2334649.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4577322.0
+    ],
+    [
+     2019,
+     4850762.0
+    ],
+    [
+     2020,
+     5241278.0
+    ],
+    [
+     2021,
+     5402702.0
+    ],
+    [
+     2022,
+     5509046.0
+    ],
+    [
+     2023,
+     6089620.0
+    ],
+    [
+     2024,
+     6502282.0
+    ],
+    [
+     2025,
+     6911971.0
+    ]
+   ],
+   "fuente": "INE, Cifras de Población / Censo anual · tabla 56942 · población a 1 de enero",
+   "nota": "Nacionalidad jurídica, no origen.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Adquisiciones de nacionalidad española (en el año)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 90774.0,
+   "valor_fin": 299732.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 230.1958710644017,
+   "var_abs": 208958.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     90774.0
+    ],
+    [
+     2019,
+     98954.0
+    ],
+    [
+     2020,
+     126266.0
+    ],
+    [
+     2021,
+     144012.0
+    ],
+    [
+     2022,
+     181581.0
+    ],
+    [
+     2023,
+     240208.0
+    ],
+    [
+     2024,
+     252476.0
+    ],
+    [
+     2025,
+     299732.0
+    ]
+   ],
+   "fuente": "INE, Adquisiciones de Nacionalidad Española de Residentes · tabla 15073",
+   "nota": "Acumulado 2018-2025: 1.434.003 personas. Explica por qué la cifra de 'extranjeros' crece menos que la de 'nacidos fuera'.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población de 65 y más años",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 8918454.0,
+   "valor_fin": 10178625.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 14.129926554535132,
+   "var_abs": 1260171.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     8918454.0
+    ],
+    [
+     2019,
+     9056923.0
+    ],
+    [
+     2020,
+     9211438.0
+    ],
+    [
+     2021,
+     9311484.0
+    ],
+    [
+     2022,
+     9481802.0
+    ],
+    [
+     2023,
+     9687776.0
+    ],
+    [
+     2024,
+     9928368.0
+    ],
+    [
+     2025,
+     10178625.0
+    ]
+   ],
+   "fuente": "INE, Cifras de Población / Censo anual · tabla 56942 · población a 1 de enero",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Peso de los mayores de 65 años",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 19.11982123727116,
+   "valor_fin": 20.718456819294996,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 8.36114293217105,
+   "var_abs": 1.5986355820238352,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     19.11982123727116
+    ],
+    [
+     2019,
+     19.30333651321403
+    ],
+    [
+     2020,
+     19.46707017723681
+    ],
+    [
+     2021,
+     19.644150294684913
+    ],
+    [
+     2022,
+     19.96726790625094
+    ],
+    [
+     2023,
+     20.14703809751995
+    ],
+    [
+     2024,
+     20.4204654101594
+    ],
+    [
+     2025,
+     20.718456819294996
+    ]
+   ],
+   "fuente": "INE, Cifras de Población / Censo anual · tabla 56942 · población a 1 de enero",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "poblacion",
+   "descripcion": "Población de 15 a 64 años (edad potencialmente activa)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 30785600.0,
+   "valor_fin": 32605609.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 5.911884127644096,
+   "var_abs": 1820009.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     30785600.0
+    ],
+    [
+     2019,
+     30975161.0
+    ],
+    [
+     2020,
+     31274248.0
+    ],
+    [
+     2021,
+     31374646.0
+    ],
+    [
+     2022,
+     31417405.0
+    ],
+    [
+     2023,
+     31860370.0
+    ],
+    [
+     2024,
+     32260950.0
+    ],
+    [
+     2025,
+     32605609.0
+    ]
+   ],
+   "fuente": "INE, Cifras de Población / Censo anual · tabla 56942 · población a 1 de enero",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "PIB a precios de mercado (precios corrientes)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 1212276.0,
+   "valor_fin": 1594330.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 31.51543047952776,
+   "var_abs": 382054.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1212276.0
+    ],
+    [
+     2019,
+     1253710.0
+    ],
+    [
+     2020,
+     1129214.0
+    ],
+    [
+     2021,
+     1235474.0
+    ],
+    [
+     2022,
+     1375863.0
+    ],
+    [
+     2023,
+     1497761.0
+    ],
+    [
+     2024,
+     1594330.0
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024 · tabla 1",
+   "nota": "Euros corrientes: incluye el efecto de la inflación.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "PIB real (índice de volumen encadenado, 2020 = 100)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 110.124224773494,
+   "valor_fin": 120.28924329752807,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 9.23050177646354,
+   "var_abs": 10.165018524034068,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     110.124224773494
+    ],
+    [
+     2019,
+     112.283966815727
+    ],
+    [
+     2020,
+     100.0
+    ],
+    [
+     2021,
+     106.68314420473
+    ],
+    [
+     2022,
+     113.4792323308169
+    ],
+    [
+     2023,
+     116.27179223558706
+    ],
+    [
+     2024,
+     120.28924329752807
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024 · tabla 4",
+   "nota": "Medida real oficial del crecimiento: descuenta los precios.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "PIB per cápita (precios corrientes)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 25950.0,
+   "valor_fin": 32633.0,
+   "unidad": "€",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 25.753371868978814,
+   "var_abs": 6683.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     25950.0
+    ],
+    [
+     2019,
+     26625.0
+    ],
+    [
+     2020,
+     23851.0
+    ],
+    [
+     2021,
+     26094.0
+    ],
+    [
+     2022,
+     28792.0
+    ],
+    [
+     2023,
+     30976.0
+    ],
+    [
+     2024,
+     32633.0
+    ]
+   ],
+   "fuente": "INE, Contabilidad Regional de España RE2024 · PIB per cápita, Total Nacional",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "PIB real por habitante (índice derivado, 2018 = 100)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 100.0,
+   "valor_fin": 104.44159261697392,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 4.441592616973922,
+   "var_abs": 4.441592616973921,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     100.0
+    ],
+    [
+     2019,
+     101.15351795235168
+    ],
+    [
+     2020,
+     89.59821716477117
+    ],
+    [
+     2021,
+     95.58215753525187
+    ],
+    [
+     2022,
+     100.73704319851254
+    ],
+    [
+     2023,
+     102.00569784621996
+    ],
+    [
+     2024,
+     104.44159261697392
+    ]
+   ],
+   "fuente": "Derivado: índice de volumen del PIB ÷ población media de la CNA",
+   "nota": "Cálculo propio a partir de dos series oficiales; no es una serie publicada por el INE.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "Renta nacional disponible neta per cápita (nominal)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 21854.671946912127,
+   "valor_fin": 27278.03590068977,
+   "unidad": "€",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 24.815581615462847,
+   "var_abs": 5423.3639537776435,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     21854.671946912127
+    ],
+    [
+     2019,
+     22429.34505606524
+    ],
+    [
+     2020,
+     19632.611680219663
+    ],
+    [
+     2021,
+     21766.067543878176
+    ],
+    [
+     2022,
+     23984.34687983928
+    ],
+    [
+     2023,
+     25780.654768059892
+    ],
+    [
+     2024,
+     27278.03590068977
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024 · Renta nacional disponible",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "Remuneración de los asalariados",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 553097.0,
+   "valor_fin": 768983.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 39.032213156101015,
+   "var_abs": 215886.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     553097.0
+    ],
+    [
+     2019,
+     588298.0
+    ],
+    [
+     2020,
+     564228.0
+    ],
+    [
+     2021,
+     607322.0
+    ],
+    [
+     2022,
+     659911.0
+    ],
+    [
+     2023,
+     716316.0
+    ],
+    [
+     2024,
+     768983.0
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024 · Renta nacional disponible",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "Puestos de trabajo totales",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 20571400.0,
+   "valor_fin": 22582900.0,
+   "unidad": "puestos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 9.778138580748031,
+   "var_abs": 2011500.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     20571400.0
+    ],
+    [
+     2019,
+     21054300.0
+    ],
+    [
+     2020,
+     18836400.0
+    ],
+    [
+     2021,
+     20298600.0
+    ],
+    [
+     2022,
+     21268100.0
+    ],
+    [
+     2023,
+     22016000.0
+    ],
+    [
+     2024,
+     22582900.0
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024 · Empleo total por rama",
+   "nota": "Puestos de trabajo, no personas.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "Horas efectivamente trabajadas",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 33765616400.0,
+   "valor_fin": 36159400200.0,
+   "unidad": "horas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 7.089412411852192,
+   "var_abs": 2393783800.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     33765616400.0
+    ],
+    [
+     2019,
+     34348535000.0
+    ],
+    [
+     2020,
+     30576946200.0
+    ],
+    [
+     2021,
+     32787923300.0
+    ],
+    [
+     2022,
+     34448677700.0
+    ],
+    [
+     2023,
+     35369626000.0
+    ],
+    [
+     2024,
+     36159400200.0
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024 · Horas trabajadas por rama",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "Productividad por hora trabajada (índice derivado, 2018 = 100)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 100.0,
+   "valor_fin": 101.9993473830793,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 1.9993473830792974,
+   "var_abs": 1.9993473830792965,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     100.0
+    ],
+    [
+     2019,
+     100.23083458539028
+    ],
+    [
+     2020,
+     100.27616331648088
+    ],
+    [
+     2021,
+     99.76396802756254
+    ],
+    [
+     2022,
+     101.00332037315664
+    ],
+    [
+     2023,
+     100.79424063852713
+    ],
+    [
+     2024,
+     101.9993473830793
+    ]
+   ],
+   "fuente": "Derivado: índice de volumen del PIB ÷ horas trabajadas (CNA RE2024)",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "economia",
+   "descripcion": "Población media usada por la Contabilidad Nacional (1 de julio)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 46715000.0,
+   "valor_fin": 48857000.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 4.58525099004603,
+   "var_abs": 2142000.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     46715000.0
+    ],
+    [
+     2019,
+     47088000.0
+    ],
+    [
+     2020,
+     47345000.0
+    ],
+    [
+     2021,
+     47347000.0
+    ],
+    [
+     2022,
+     47786000.0
+    ],
+    [
+     2023,
+     48353000.0
+    ],
+    [
+     2024,
+     48857000.0
+    ]
+   ],
+   "fuente": "INE, Contabilidad Nacional Anual, Revisión Estadística 2024",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Tasa de paro",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 15.255,
+   "valor_fin": 10.5075,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": -31.12094395280236,
+   "var_abs": -4.7475000000000005,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     15.255
+    ],
+    [
+     2019,
+     14.105
+    ],
+    [
+     2020,
+     15.5325
+    ],
+    [
+     2021,
+     14.92
+    ],
+    [
+     2022,
+     13.035
+    ],
+    [
+     2023,
+     12.185
+    ],
+    [
+     2024,
+     11.345
+    ],
+    [
+     2025,
+     10.5075
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65349",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Tasa de empleo (ocupados sobre población de 16 y más años)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 49.7,
+   "valor_fin": 52.7675,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 6.172032193158938,
+   "var_abs": 3.0674999999999955,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     49.7
+    ],
+    [
+     2019,
+     50.3675
+    ],
+    [
+     2020,
+     48.5175
+    ],
+    [
+     2021,
+     49.675
+    ],
+    [
+     2022,
+     50.9
+    ],
+    [
+     2023,
+     51.685
+    ],
+    [
+     2024,
+     52.095
+    ],
+    [
+     2025,
+     52.7675
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65349",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Tasa de actividad",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 58.65,
+   "valor_fin": 58.96,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 0.5285592497868752,
+   "var_abs": 0.3100000000000023,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     58.65
+    ],
+    [
+     2019,
+     58.6375
+    ],
+    [
+     2020,
+     57.435
+    ],
+    [
+     2021,
+     58.38
+    ],
+    [
+     2022,
+     58.53
+    ],
+    [
+     2023,
+     58.8525
+    ],
+    [
+     2024,
+     58.765
+    ],
+    [
+     2025,
+     58.96
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65349",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Tasa de paro · población de nacionalidad española",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 14.3225,
+   "valor_fin": 9.5275,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": -33.478792110315936,
+   "var_abs": -4.795,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     14.3225
+    ],
+    [
+     2019,
+     13.205
+    ],
+    [
+     2020,
+     14.11
+    ],
+    [
+     2021,
+     13.6475
+    ],
+    [
+     2022,
+     11.9775
+    ],
+    [
+     2023,
+     11.1875
+    ],
+    [
+     2024,
+     10.325
+    ],
+    [
+     2025,
+     9.5275
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65336",
+   "nota": "Nacionalidad, no país de nacimiento.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Tasa de paro · población de nacionalidad extranjera",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 21.9025,
+   "valor_fin": 15.435,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": -29.528592626412507,
+   "var_abs": -6.467499999999999,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     21.9025
+    ],
+    [
+     2019,
+     20.11
+    ],
+    [
+     2020,
+     24.595
+    ],
+    [
+     2021,
+     23.075
+    ],
+    [
+     2022,
+     19.435
+    ],
+    [
+     2023,
+     17.725
+    ],
+    [
+     2024,
+     16.755000000000003
+    ],
+    [
+     2025,
+     15.435
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65336",
+   "nota": "Nacionalidad, no país de nacimiento.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Tasa de actividad · población de nacionalidad extranjera",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 71.67,
+   "valor_fin": 69.115,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": -3.564950467420125,
+   "var_abs": -2.555000000000007,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     71.67
+    ],
+    [
+     2019,
+     71.2375
+    ],
+    [
+     2020,
+     68.9525
+    ],
+    [
+     2021,
+     69.6525
+    ],
+    [
+     2022,
+     69.3
+    ],
+    [
+     2023,
+     69.2075
+    ],
+    [
+     2024,
+     69.08
+    ],
+    [
+     2025,
+     69.115
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65300",
+   "nota": "Nacionalidad, no país de nacimiento.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Puestos de trabajo vacantes (media trimestral)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 96998.25,
+   "valor_fin": 152759.5,
+   "unidad": "vacantes",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 57.486861876374064,
+   "var_abs": 55761.25,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     96998.25
+    ],
+    [
+     2019,
+     102866.75
+    ],
+    [
+     2020,
+     85027.0
+    ],
+    [
+     2021,
+     111806.5
+    ],
+    [
+     2022,
+     140858.5
+    ],
+    [
+     2023,
+     148211.75
+    ],
+    [
+     2024,
+     149975.0
+    ],
+    [
+     2025,
+     152759.5
+    ]
+   ],
+   "fuente": "INE, Encuesta Trimestral de Coste Laboral · tabla 6064",
+   "nota": "Vacantes declaradas por las empresas; no mide por sí sola la facilidad individual de encontrar empleo.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Población inactiva total",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 16079925.0,
+   "valor_fin": 17282400.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 7.478113237468453,
+   "var_abs": 1202475.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     16079925.0
+    ],
+    [
+     2019,
+     16242175.0
+    ],
+    [
+     2020,
+     16845500.0
+    ],
+    [
+     2021,
+     16616125.0
+    ],
+    [
+     2022,
+     16740625.0
+    ],
+    [
+     2023,
+     16863000.0
+    ],
+    [
+     2024,
+     17141175.0
+    ],
+    [
+     2025,
+     17282400.0
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65343",
+   "nota": "La inactividad de la EPA incluye jubilados, estudiantes, labores del hogar e incapacidad. No mide dependencia de prestaciones ni rechazo a trabajar.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Inactivos: jubilados",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 6290150.0,
+   "valor_fin": 7352900.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 16.89546354220488,
+   "var_abs": 1062750.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     6290150.0
+    ],
+    [
+     2019,
+     6444475.0
+    ],
+    [
+     2020,
+     6486475.0
+    ],
+    [
+     2021,
+     6628450.0
+    ],
+    [
+     2022,
+     6772675.0
+    ],
+    [
+     2023,
+     6924025.0
+    ],
+    [
+     2024,
+     7150825.0
+    ],
+    [
+     2025,
+     7352900.0
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65343",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Inactivos: estudiantes",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 2694475.0,
+   "valor_fin": 3491400.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 29.57626253722896,
+   "var_abs": 796925.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     2694475.0
+    ],
+    [
+     2019,
+     2805750.0
+    ],
+    [
+     2020,
+     2923375.0
+    ],
+    [
+     2021,
+     3117675.0
+    ],
+    [
+     2022,
+     3207750.0
+    ],
+    [
+     2023,
+     3282775.0
+    ],
+    [
+     2024,
+     3393675.0
+    ],
+    [
+     2025,
+     3491400.0
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65343",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "laboral",
+   "descripcion": "Inactivos: labores del hogar",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 3713700.0,
+   "valor_fin": 3356650.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -9.614400732423189,
+   "var_abs": -357050.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     3713700.0
+    ],
+    [
+     2019,
+     3644125.0
+    ],
+    [
+     2020,
+     3929000.0
+    ],
+    [
+     2021,
+     3536350.0
+    ],
+    [
+     2022,
+     3499300.0
+    ],
+    [
+     2023,
+     3418975.0
+    ],
+    [
+     2024,
+     3403549.9999999995
+    ],
+    [
+     2025,
+     3356650.0
+    ]
+   ],
+   "fuente": "INE, Encuesta de Población Activa · media de los cuatro trimestres · tabla 65343",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "IPC general (media anual, base 2021 = 100)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 96.63783333333332,
+   "valor_fin": 118.4155,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 22.535342438348003,
+   "var_abs": 21.777666666666676,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     96.63783333333332
+    ],
+    [
+     2019,
+     97.31383333333332
+    ],
+    [
+     2020,
+     96.99975
+    ],
+    [
+     2021,
+     100.00008333333334
+    ],
+    [
+     2022,
+     108.39066666666668
+    ],
+    [
+     2023,
+     112.21941666666667
+    ],
+    [
+     2024,
+     115.33258333333332
+    ],
+    [
+     2025,
+     118.4155
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Euros de 2025 necesarios para comprar lo que 1.000 € compraban en 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 1000.0,
+   "valor_fin": 1225.3534243834802,
+   "unidad": "€",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 22.535342438348003,
+   "var_abs": 225.35342438348016,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1000.0
+    ],
+    [
+     2019,
+     1006.9951899445869
+    ],
+    [
+     2020,
+     1003.745082584978
+    ],
+    [
+     2021,
+     1034.7922742473188
+    ],
+    [
+     2022,
+     1121.6173099907387
+    ],
+    [
+     2023,
+     1161.2368861746695
+    ],
+    [
+     2024,
+     1193.4516674801278
+    ],
+    [
+     2025,
+     1225.3534243834802
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Lo que 1.000 € compran hoy, medido en euros de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 1000.0,
+   "valor_fin": 816.0910804188077,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -18.390891958119237,
+   "var_abs": -183.90891958119232,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1000.0
+    ],
+    [
+     2019,
+     993.0534028221408
+    ],
+    [
+     2020,
+     996.2688907273816
+    ],
+    [
+     2021,
+     966.3775280187266
+    ],
+    [
+     2022,
+     891.5696923474345
+    ],
+    [
+     2023,
+     861.1507366892092
+    ],
+    [
+     2024,
+     837.9057378263298
+    ],
+    [
+     2025,
+     816.0910804188077
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Precios de alimentos y bebidas no alcohólicas (índice)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 94.94566666666668,
+   "valor_fin": 132.2576666666667,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 39.298265323676354,
+   "var_abs": 37.31200000000001,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     94.94566666666668
+    ],
+    [
+     2019,
+     95.92766666666668
+    ],
+    [
+     2020,
+     98.18675
+    ],
+    [
+     2021,
+     99.99983333333334
+    ],
+    [
+     2022,
+     111.6395
+    ],
+    [
+     2023,
+     124.65883333333332
+    ],
+    [
+     2024,
+     129.105
+    ],
+    [
+     2025,
+     132.2576666666667
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses · grupos ECOICOP",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Precios de vivienda, agua, electricidad y gas (índice)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 94.66466666666668,
+   "valor_fin": 113.08858333333336,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 19.462294978062932,
+   "var_abs": 18.423916666666685,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     94.66466666666668
+    ],
+    [
+     2019,
+     93.28116666666666
+    ],
+    [
+     2020,
+     89.97666666666667
+    ],
+    [
+     2021,
+     99.99991666666666
+    ],
+    [
+     2022,
+     115.50491666666666
+    ],
+    [
+     2023,
+     102.78566666666669
+    ],
+    [
+     2024,
+     106.50808333333332
+    ],
+    [
+     2025,
+     113.08858333333336
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses · grupos ECOICOP",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Precios del transporte (índice)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 95.77075,
+   "valor_fin": 113.08333333333331,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 18.077109486281874,
+   "var_abs": 17.312583333333308,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     95.77075
+    ],
+    [
+     2019,
+     96.86666666666667
+    ],
+    [
+     2020,
+     93.19666666666666
+    ],
+    [
+     2021,
+     100.00008333333334
+    ],
+    [
+     2022,
+     112.14966666666668
+    ],
+    [
+     2023,
+     111.73
+    ],
+    [
+     2024,
+     112.48416666666668
+    ],
+    [
+     2025,
+     113.08333333333331
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses · grupos ECOICOP",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Precios de restaurantes y hoteles (índice)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 96.1465,
+   "valor_fin": 124.30916666666668,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 29.29141119714882,
+   "var_abs": 28.16266666666668,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     96.1465
+    ],
+    [
+     2019,
+     98.06575
+    ],
+    [
+     2020,
+     99.135
+    ],
+    [
+     2021,
+     100.00008333333334
+    ],
+    [
+     2022,
+     106.40166666666666
+    ],
+    [
+     2023,
+     113.67566666666666
+    ],
+    [
+     2024,
+     119.17958333333333
+    ],
+    [
+     2025,
+     124.30916666666668
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses · grupos ECOICOP",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Precios de sanidad (índice)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 98.15733333333333,
+   "valor_fin": 107.24241666666668,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 9.255633812382857,
+   "var_abs": 9.085083333333358,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     98.15733333333333
+    ],
+    [
+     2019,
+     98.95591666666668
+    ],
+    [
+     2020,
+     99.32241666666664
+    ],
+    [
+     2021,
+     99.99991666666666
+    ],
+    [
+     2022,
+     101.10208333333333
+    ],
+    [
+     2023,
+     102.99475
+    ],
+    [
+     2024,
+     105.08883333333334
+    ],
+    [
+     2025,
+     107.24241666666668
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses · grupos ECOICOP",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "precios",
+   "descripcion": "Precios de vestido y calzado (índice)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 97.11541666666666,
+   "valor_fin": 106.322,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 9.480043075893384,
+   "var_abs": 9.206583333333342,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     97.11541666666666
+    ],
+    [
+     2019,
+     98.02333333333333
+    ],
+    [
+     2020,
+     98.99166666666667
+    ],
+    [
+     2021,
+     100.00008333333334
+    ],
+    [
+     2022,
+     102.67233333333331
+    ],
+    [
+     2023,
+     104.9605
+    ],
+    [
+     2024,
+     105.88591666666666
+    ],
+    [
+     2025,
+     106.322
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Consumo · tabla 50902 · media anual de los 12 meses · grupos ECOICOP",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Salario bruto medio anual (nominal)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 24009.12,
+   "valor_fin": 29540.26,
+   "unidad": "€",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 23.03766235497178,
+   "var_abs": 5531.139999999999,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     24009.12
+    ],
+    [
+     2019,
+     24395.98
+    ],
+    [
+     2020,
+     25165.51
+    ],
+    [
+     2021,
+     25896.82
+    ],
+    [
+     2022,
+     26948.87
+    ],
+    [
+     2023,
+     28049.94
+    ],
+    [
+     2024,
+     29540.26
+    ]
+   ],
+   "fuente": "INE, Encuesta Anual de Estructura Salarial · tabla 28200 · ambos sexos, todos los contratos",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Salario bruto medio anual en euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 24009.119999999995,
+   "valor_fin": 24751.953350881617,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 3.0939632559694896,
+   "var_abs": 742.8333508816213,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     24009.119999999995
+    ],
+    [
+     2019,
+     24226.51095418089
+    ],
+    [
+     2020,
+     25071.614732288825
+    ],
+    [
+     2021,
+     25026.104895145916
+    ],
+    [
+     2022,
+     24026.795735011005
+    ],
+    [
+     2023,
+     24155.22649508812
+    ],
+    [
+     2024,
+     24751.953350881617
+    ]
+   ],
+   "fuente": "Derivado: tabla 28200 deflactada con la media anual del IPC general (tabla 50902)",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Salario mensual del decil 1 (hombres), euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 507.2,
+   "valor_fin": 594.5779115615636,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 17.22750622270577,
+   "var_abs": 87.37791156156362,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     507.2
+    ],
+    [
+     2019,
+     547.7682569966928
+    ],
+    [
+     2020,
+     549.6415470142964
+    ],
+    [
+     2021,
+     575.4778179351516
+    ],
+    [
+     2022,
+     579.3419860873629
+    ],
+    [
+     2023,
+     579.3822156445
+    ],
+    [
+     2024,
+     594.5779115615636
+    ]
+   ],
+   "fuente": "Derivado: INE tabla 10910 (decil de salarios) deflactada con el IPC",
+   "nota": "La tabla descargada solo publica el desglose por sexo; no existe una serie 'ambos sexos'.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Salario mensual del decil 10 (hombres), euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 4889.3,
+   "valor_fin": 4834.63231668414,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -1.1181085905111132,
+   "var_abs": -54.667683315859904,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4889.3
+    ],
+    [
+     2019,
+     4786.815317623565
+    ],
+    [
+     2020,
+     5019.103044595476
+    ],
+    [
+     2021,
+     4945.436999635834
+    ],
+    [
+     2022,
+     4506.973951785517
+    ],
+    [
+     2023,
+     4678.029146916791
+    ],
+    [
+     2024,
+     4834.63231668414
+    ]
+   ],
+   "fuente": "Derivado: INE tabla 10910 deflactada con el IPC",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Salario mensual del decil 1 (mujeres), euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 470.7,
+   "valor_fin": 595.2482361518247,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 26.46021588099101,
+   "var_abs": 124.54823615182471,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     470.7
+    ],
+    [
+     2019,
+     522.0481738635995
+    ],
+    [
+     2020,
+     508.9937762726192
+    ],
+    [
+     2021,
+     537.4025433312139
+    ],
+    [
+     2022,
+     544.214140208874
+    ],
+    [
+     2023,
+     547.5196383869992
+    ],
+    [
+     2024,
+     595.2482361518247
+    ]
+   ],
+   "fuente": "Derivado: INE tabla 10910 deflactada con el IPC",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Salario mensual del decil 10 (mujeres), euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 4637.7,
+   "valor_fin": 4768.186391674512,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 2.8136013902260393,
+   "var_abs": 130.48639167451256,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4637.7
+    ],
+    [
+     2019,
+     4532.990867862225
+    ],
+    [
+     2020,
+     4830.310089802636
+    ],
+    [
+     2021,
+     4858.269746608545
+    ],
+    [
+     2022,
+     4379.479485779833
+    ],
+    [
+     2023,
+     4574.34659821941
+    ],
+    [
+     2024,
+     4768.186391674512
+    ]
+   ],
+   "fuente": "Derivado: INE tabla 10910 deflactada con el IPC",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Renta neta media por persona (nominal)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 11680.0,
+   "valor_fin": 15620.0,
+   "unidad": "€",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 33.73287671232876,
+   "var_abs": 3940.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     11680.0
+    ],
+    [
+     2019,
+     12292.0
+    ],
+    [
+     2020,
+     12269.0
+    ],
+    [
+     2021,
+     13008.0
+    ],
+    [
+     2022,
+     14082.0
+    ],
+    [
+     2023,
+     14807.0
+    ],
+    [
+     2024,
+     15620.0
+    ]
+   ],
+   "fuente": "INE, Encuesta de Condiciones de Vida · tabla 9947 · encuestas 2019 y 2025",
+   "nota": "Etiquetada por AÑO DE RENTA: la ECV pregunta por los ingresos del año anterior a la entrevista.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Renta neta media por persona en euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 11680.0,
+   "valor_fin": 13088.08762484727,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 12.055544733281431,
+   "var_abs": 1408.0876248472705,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     11680.0
+    ],
+    [
+     2019,
+     12206.612427489754
+    ],
+    [
+     2020,
+     12223.223020334244
+    ],
+    [
+     2021,
+     12570.638884467597
+    ],
+    [
+     2022,
+     12555.084407636574
+    ],
+    [
+     2023,
+     12751.058958157122
+    ],
+    [
+     2024,
+     13088.08762484727
+    ]
+   ],
+   "fuente": "Derivado: INE tabla 9947 deflactada con el IPC del año de renta",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Renta media por unidad de consumo en euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 17287.0,
+   "valor_fin": 19224.071342949486,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 11.20536439491806,
+   "var_abs": 1937.0713429494863,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     17287.0
+    ],
+    [
+     2019,
+     17990.155445525903
+    ],
+    [
+     2020,
+     18035.455728837787
+    ],
+    [
+     2021,
+     18515.7934368388
+    ],
+    [
+     2022,
+     18434.094958975555
+    ],
+    [
+     2023,
+     18737.778879620502
+    ],
+    [
+     2024,
+     19224.071342949486
+    ]
+   ],
+   "fuente": "Derivado: INE tabla 9947 deflactada con el IPC del año de renta",
+   "nota": "La unidad de consumo corrige por tamaño y composición del hogar.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "Tasa de riesgo de pobreza o exclusión social (AROPE)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 27.3,
+   "valor_fin": 25.7,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": -5.860805860805862,
+   "var_abs": -1.6000000000000014,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     27.3
+    ],
+    [
+     2019,
+     26.2
+    ],
+    [
+     2020,
+     27.0
+    ],
+    [
+     2021,
+     27.8
+    ],
+    [
+     2022,
+     26.0
+    ],
+    [
+     2023,
+     26.5
+    ],
+    [
+     2024,
+     25.8
+    ],
+    [
+     2025,
+     25.7
+    ]
+   ],
+   "fuente": "INE, ECV · tabla 74860 · definición Europa 2030, etiquetado por año de encuesta",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "rentas",
+   "descripcion": "AROPE en hogares de un adulto con hijos dependientes",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 51.1,
+   "valor_fin": 50.6,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": -0.9784735812133127,
+   "var_abs": -0.5,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     51.1
+    ],
+    [
+     2019,
+     47.6
+    ],
+    [
+     2020,
+     49.8
+    ],
+    [
+     2021,
+     54.3
+    ],
+    [
+     2022,
+     49.2
+    ],
+    [
+     2023,
+     52.7
+    ],
+    [
+     2024,
+     50.3
+    ],
+    [
+     2025,
+     50.6
+    ]
+   ],
+   "fuente": "INE, ECV · tabla 74860",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "vivienda",
+   "descripcion": "Índice de precios de la vivienda (media anual, base 2015 = 100)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 118.595,
+   "valor_fin": 179.905,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 51.6969518107846,
+   "var_abs": 61.31,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     118.595
+    ],
+    [
+     2019,
+     124.597
+    ],
+    [
+     2020,
+     127.232
+    ],
+    [
+     2021,
+     131.928
+    ],
+    [
+     2022,
+     141.675
+    ],
+    [
+     2023,
+     147.282
+    ],
+    [
+     2024,
+     159.656
+    ],
+    [
+     2025,
+     179.905
+    ]
+   ],
+   "fuente": "INE, Índice de Precios de Vivienda · tabla 25173",
+   "nota": "Es un índice de precios, no un precio en euros por metro cuadrado.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "vivienda",
+   "descripcion": "Precio real de la vivienda descontada la inflación (2018 = 100)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 100.0,
+   "valor_fin": 123.79852929950302,
+   "unidad": "índice",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 23.798529299503013,
+   "var_abs": 23.798529299503016,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     100.0
+    ],
+    [
+     2019,
+     104.33110572235783
+    ],
+    [
+     2020,
+     106.88248535353615
+    ],
+    [
+     2021,
+     107.50221722370635
+    ],
+    [
+     2022,
+     106.50797770843864
+    ],
+    [
+     2023,
+     106.94548910245804
+    ],
+    [
+     2024,
+     112.80128038989884
+    ],
+    [
+     2025,
+     123.79852929950302
+    ]
+   ],
+   "fuente": "Derivado: IPV (tabla 25173) deflactado con el IPC general (tabla 50902)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "vivienda",
+   "descripcion": "Hipotecas constituidas sobre viviendas (año completo)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 348326.0,
+   "valor_fin": 500883.0,
+   "unidad": "hipotecas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 43.79718998868876,
+   "var_abs": 152557.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     348326.0
+    ],
+    [
+     2019,
+     361291.0
+    ],
+    [
+     2020,
+     337752.0
+    ],
+    [
+     2021,
+     418058.0
+    ],
+    [
+     2022,
+     464107.0
+    ],
+    [
+     2023,
+     380966.0
+    ],
+    [
+     2024,
+     425522.0
+    ],
+    [
+     2025,
+     500883.0
+    ]
+   ],
+   "fuente": "INE, Estadística de Hipotecas · tabla 76317 · suma de los 12 meses",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "vivienda",
+   "descripcion": "Importe medio de la hipoteca sobre vivienda (nominal)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 124265.43525318235,
+   "valor_fin": 163940.2614981942,
+   "unidad": "€",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 31.927483426245672,
+   "var_abs": 39674.826245011835,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     124265.43525318235
+    ],
+    [
+     2019,
+     125614.6707224924
+    ],
+    [
+     2020,
+     134738.27542101897
+    ],
+    [
+     2021,
+     137523.02072918112
+    ],
+    [
+     2022,
+     144913.918557574
+    ],
+    [
+     2023,
+     141826.98718520813
+    ],
+    [
+     2024,
+     145360.52425021504
+    ],
+    [
+     2025,
+     163940.2614981942
+    ]
+   ],
+   "fuente": "INE · tabla 76317",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "vivienda",
+   "descripcion": "Importe medio de la hipoteca en euros constantes de 2018",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 124265.43525318235,
+   "valor_fin": 133790.18513020314,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 7.66484248625916,
+   "var_abs": 9524.74987702079,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     124265.43525318235
+    ],
+    [
+     2019,
+     124742.0762053538
+    ],
+    [
+     2020,
+     134235.552192219
+    ],
+    [
+     2021,
+     132899.15681793416
+    ],
+    [
+     2022,
+     129200.85778523744
+    ],
+    [
+     2023,
+     122134.41449695302
+    ],
+    [
+     2024,
+     121798.41732269854
+    ],
+    [
+     2025,
+     133790.18513020314
+    ]
+   ],
+   "fuente": "Derivado: tabla 76317 deflactada con el IPC",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "vivienda",
+   "descripcion": "Plazo medio de las nuevas hipotecas sobre vivienda",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 23.916666666666668,
+   "valor_fin": 25.083333333333332,
+   "unidad": "años",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 4.878048780487787,
+   "var_abs": 1.1666666666666643,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     23.916666666666668
+    ],
+    [
+     2019,
+     23.666666666666668
+    ],
+    [
+     2020,
+     23.916666666666668
+    ],
+    [
+     2021,
+     24.5
+    ],
+    [
+     2022,
+     24.416666666666668
+    ],
+    [
+     2023,
+     24.333333333333332
+    ],
+    [
+     2024,
+     24.25
+    ],
+    [
+     2025,
+     25.083333333333332
+    ]
+   ],
+   "fuente": "INE, Estadística de Hipotecas · tabla 24458 · media de los 12 meses",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Infracciones penales conocidas (hechos, no personas)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 2131118.0,
+   "valor_fin": 2454206.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 15.160493224683002,
+   "var_abs": 323088.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     2131118.0
+    ],
+    [
+     2019,
+     2199475.0
+    ],
+    [
+     2020,
+     1766779.0
+    ],
+    [
+     2021,
+     1957719.0
+    ],
+    [
+     2022,
+     2323075.0
+    ],
+    [
+     2023,
+     2464759.0
+    ],
+    [
+     2024,
+     2454206.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Infracciones penales conocidas por 100.000 habitantes",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 4568.795802000082,
+   "valor_fin": 5047.760994798507,
+   "unidad": "por 100.000 hab.",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 10.48340117517943,
+   "var_abs": 478.96519279842505,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4568.795802000082
+    ],
+    [
+     2019,
+     4687.817935230479
+    ],
+    [
+     2020,
+     3733.837298874319
+    ],
+    [
+     2021,
+     4130.139328034098
+    ],
+    [
+     2022,
+     4892.051204118574
+    ],
+    [
+     2023,
+     5125.799097151418
+    ],
+    [
+     2024,
+     5047.760994798507
+    ]
+   ],
+   "fuente": "Derivado: tabla 01001 ÷ población a 1 de enero (INE tabla 56942)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Infracciones penales conocidas excluidas las estafas informáticas",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 1994462.0,
+   "valor_fin": 2041356.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 2.351210501879697,
+   "var_abs": 46894.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1994462.0
+    ],
+    [
+     2019,
+     2007100.0
+    ],
+    [
+     2020,
+     1508872.0
+    ],
+    [
+     2021,
+     1690708.0
+    ],
+    [
+     2022,
+     1987080.0
+    ],
+    [
+     2023,
+     2037311.0
+    ],
+    [
+     2024,
+     2041356.0
+    ]
+   ],
+   "fuente": "Derivado: tabla 01001 (total menos epígrafe 5.5.1)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Infracciones penales conocidas excluidas las estafas informáticas, por 100.000 hab.",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 4275.8259340161785,
+   "valor_fin": 4198.619510056573,
+   "unidad": "por 100.000 hab.",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -1.8056493681230745,
+   "var_abs": -77.20642395960567,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4275.8259340161785
+    ],
+    [
+     2019,
+     4277.802374567155
+    ],
+    [
+     2020,
+     3188.7873654979444
+    ],
+    [
+     2021,
+     3566.8344655294622
+    ],
+    [
+     2022,
+     4184.495596000962
+    ],
+    [
+     2023,
+     4236.863273211155
+    ],
+    [
+     2024,
+     4198.619510056573
+    ]
+   ],
+   "fuente": "Derivado: tabla 01001 ÷ población (INE tabla 56942)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Estafas informáticas (ciberestafa)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 136656.0,
+   "valor_fin": 412850.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 202.10894508839715,
+   "var_abs": 276194.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     136656.0
+    ],
+    [
+     2019,
+     192375.0
+    ],
+    [
+     2020,
+     257907.0
+    ],
+    [
+     2021,
+     267011.0
+    ],
+    [
+     2022,
+     335995.0
+    ],
+    [
+     2023,
+     427448.0
+    ],
+    [
+     2024,
+     412850.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Hurtos",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 706072.0,
+   "valor_fin": 648963.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -8.088268618497828,
+   "var_abs": -57109.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     706072.0
+    ],
+    [
+     2019,
+     700453.0
+    ],
+    [
+     2020,
+     420950.0
+    ],
+    [
+     2021,
+     493479.0
+    ],
+    [
+     2022,
+     642276.0
+    ],
+    [
+     2023,
+     665622.0
+    ],
+    [
+     2024,
+     648963.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Robos con fuerza en viviendas",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 107166.0,
+   "valor_fin": 81094.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -24.328611686542377,
+   "var_abs": -26072.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     107166.0
+    ],
+    [
+     2019,
+     98326.0
+    ],
+    [
+     2020,
+     72380.0
+    ],
+    [
+     2021,
+     75501.0
+    ],
+    [
+     2022,
+     86515.0
+    ],
+    [
+     2023,
+     84721.0
+    ],
+    [
+     2024,
+     81094.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Robos con violencia o intimidación",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 60295.0,
+   "valor_fin": 62976.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 4.446471515050998,
+   "var_abs": 2681.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     60295.0
+    ],
+    [
+     2019,
+     65874.0
+    ],
+    [
+     2020,
+     45263.0
+    ],
+    [
+     2021,
+     53073.0
+    ],
+    [
+     2022,
+     63392.0
+    ],
+    [
+     2023,
+     64711.0
+    ],
+    [
+     2024,
+     62976.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Homicidios dolosos y asesinatos consumados",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 289.0,
+   "valor_fin": 349.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 20.761245674740493,
+   "var_abs": 60.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     289.0
+    ],
+    [
+     2019,
+     331.0
+    ],
+    [
+     2020,
+     298.0
+    ],
+    [
+     2021,
+     293.0
+    ],
+    [
+     2022,
+     326.0
+    ],
+    [
+     2023,
+     333.0
+    ],
+    [
+     2024,
+     349.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Malos tratos en el ámbito familiar",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 72309.0,
+   "valor_fin": 104625.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 44.69153217441813,
+   "var_abs": 32316.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     72309.0
+    ],
+    [
+     2019,
+     77424.0
+    ],
+    [
+     2020,
+     75203.0
+    ],
+    [
+     2021,
+     82003.0
+    ],
+    [
+     2022,
+     92695.0
+    ],
+    [
+     2023,
+     101179.0
+    ],
+    [
+     2024,
+     104625.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Delitos contra la libertad sexual",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 13782.0,
+   "valor_fin": 22846.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 65.76694238862284,
+   "var_abs": 9064.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     13782.0
+    ],
+    [
+     2019,
+     15319.0
+    ],
+    [
+     2020,
+     13174.0
+    ],
+    [
+     2021,
+     17016.0
+    ],
+    [
+     2022,
+     19013.0
+    ],
+    [
+     2023,
+     21825.0
+    ],
+    [
+     2024,
+     22846.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "La LO 10/2022 reordenó los tipos penales sexuales; parte de la variación es reclasificación, no necesariamente más hechos.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Agresión sexual con penetración",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 2744.0,
+   "valor_fin": 5222.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 90.3061224489796,
+   "var_abs": 2478.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     2744.0
+    ],
+    [
+     2019,
+     3079.0
+    ],
+    [
+     2020,
+     2785.0
+    ],
+    [
+     2021,
+     3795.0
+    ],
+    [
+     2022,
+     4270.0
+    ],
+    [
+     2023,
+     4890.0
+    ],
+    [
+     2024,
+     5222.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "La LO 10/2022 reordenó los tipos penales sexuales; parte de la variación es reclasificación, no necesariamente más hechos.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Tráfico de drogas",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 14133.0,
+   "valor_fin": 21540.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 52.4092549352579,
+   "var_abs": 7407.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     14133.0
+    ],
+    [
+     2019,
+     16624.0
+    ],
+    [
+     2020,
+     17112.0
+    ],
+    [
+     2021,
+     18313.0
+    ],
+    [
+     2022,
+     19057.0
+    ],
+    [
+     2023,
+     21033.0
+    ],
+    [
+     2024,
+     21540.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Falsedades documentales",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 22399.0,
+   "valor_fin": 45715.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 104.09393276485557,
+   "var_abs": 23316.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     22399.0
+    ],
+    [
+     2019,
+     24529.0
+    ],
+    [
+     2020,
+     24020.0
+    ],
+    [
+     2021,
+     34058.0
+    ],
+    [
+     2022,
+     37717.0
+    ],
+    [
+     2023,
+     40889.0
+    ],
+    [
+     2024,
+     45715.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 01001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Hechos esclarecidos",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 673594.0,
+   "valor_fin": 888405.0,
+   "unidad": "hechos",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 31.890278120054518,
+   "var_abs": 214811.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     673594.0
+    ],
+    [
+     2019,
+     702544.0
+    ],
+    [
+     2020,
+     616665.0
+    ],
+    [
+     2021,
+     685383.0
+    ],
+    [
+     2022,
+     771302.0
+    ],
+    [
+     2023,
+     845845.0
+    ],
+    [
+     2024,
+     888405.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 02001",
+   "nota": "Un hecho esclarecido no es una condena ni una persona.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "crimen",
+   "descripcion": "Tasa de esclarecimiento",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 31.607541206071176,
+   "valor_fin": 36.1992840046842,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 14.527364747154214,
+   "var_abs": 4.591742798613026,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     31.607541206071176
+    ],
+    [
+     2019,
+     31.94144057104537
+    ],
+    [
+     2020,
+     34.90334671172795
+    ],
+    [
+     2021,
+     35.0092633314587
+    ],
+    [
+     2022,
+     33.20176920676259
+    ],
+    [
+     2023,
+     34.31755396775101
+    ],
+    [
+     2024,
+     36.1992840046842
+    ]
+   ],
+   "fuente": "Derivado: tabla 02001 ÷ tabla 01001",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Detenidos e investigados (total)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 394824.0,
+   "valor_fin": 577107.0,
+   "unidad": "actuaciones",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 46.16816606893197,
+   "var_abs": 182283.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     394824.0
+    ],
+    [
+     2019,
+     411903.0
+    ],
+    [
+     2020,
+     415060.0
+    ],
+    [
+     2021,
+     453222.0
+    ],
+    [
+     2022,
+     508419.0
+    ],
+    [
+     2023,
+     556793.0
+    ],
+    [
+     2024,
+     577107.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tabla 03001",
+   "nota": "Actuaciones policiales sobre personas; una misma persona puede figurar más de una vez. No son condenas.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Detenidos e investigados de nacionalidad española (por diferencia)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 295325.0,
+   "valor_fin": 359730.0,
+   "unidad": "actuaciones",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 21.808177431643095,
+   "var_abs": 64405.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     295325.0
+    ],
+    [
+     2019,
+     304227.0
+    ],
+    [
+     2020,
+     283952.0
+    ],
+    [
+     2021,
+     307925.0
+    ],
+    [
+     2022,
+     336105.0
+    ],
+    [
+     2023,
+     359697.0
+    ],
+    [
+     2024,
+     359730.0
+    ]
+   ],
+   "fuente": "Derivado: tabla 03001 menos tabla 03005 (universo extranjeros)",
+   "nota": "Incluye a las personas nacidas fuera que han adquirido la nacionalidad española.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Detenidos e investigados de nacionalidad extranjera",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 99499.0,
+   "valor_fin": 217377.0,
+   "unidad": "actuaciones",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 118.4715424275621,
+   "var_abs": 117878.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     99499.0
+    ],
+    [
+     2019,
+     107676.0
+    ],
+    [
+     2020,
+     131108.0
+    ],
+    [
+     2021,
+     145297.0
+    ],
+    [
+     2022,
+     172314.0
+    ],
+    [
+     2023,
+     197096.0
+    ],
+    [
+     2024,
+     217377.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tablas 03005 y 03007",
+   "nota": "Nacionalidad declarada, no país de nacimiento.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Peso de los extranjeros en el total de detenidos e investigados",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 25.20084898587725,
+   "valor_fin": 37.666671865009434,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 49.46588460618182,
+   "var_abs": 12.465822879132183,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     25.20084898587725
+    ],
+    [
+     2019,
+     26.14110603710097
+    ],
+    [
+     2020,
+     31.58772225702308
+    ],
+    [
+     2021,
+     32.05868205868206
+    ],
+    [
+     2022,
+     33.892124409197926
+    ],
+    [
+     2023,
+     35.39843352915715
+    ],
+    [
+     2024,
+     37.666671865009434
+    ]
+   ],
+   "fuente": "Derivado: tabla 03005 ÷ tabla 03001",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Peso de la población extranjera sobre la población total",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 9.813088500027977,
+   "valor_fin": 13.373761394430796,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 36.28493612783241,
+   "var_abs": 3.5606728944028188,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     9.813088500027977
+    ],
+    [
+     2019,
+     10.33859857608496
+    ],
+    [
+     2020,
+     11.07669906092918
+    ],
+    [
+     2021,
+     11.397913596306966
+    ],
+    [
+     2022,
+     11.60123332989448
+    ],
+    [
+     2023,
+     12.664186923750036
+    ],
+    [
+     2024,
+     13.373761394430796
+    ]
+   ],
+   "fuente": "INE · tabla 56942",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Detenidos e investigados españoles por 100.000 residentes españoles",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 702.0223663981253,
+   "valor_fin": 854.1122884256923,
+   "unidad": "por 100.000",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 21.6645408048602,
+   "var_abs": 152.089922027567,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     702.0223663981253
+    ],
+    [
+     2019,
+     723.1758895064391
+    ],
+    [
+     2020,
+     674.8426423966173
+    ],
+    [
+     2021,
+     733.187999760751
+    ],
+    [
+     2022,
+     800.6754827642814
+    ],
+    [
+     2023,
+     856.5082825898941
+    ],
+    [
+     2024,
+     854.1122884256923
+    ]
+   ],
+   "fuente": "Derivado: tablas 03001/03005 ÷ población española (INE 56942)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Detenidos e investigados extranjeros por 100.000 residentes extranjeros",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 2173.738268795597,
+   "valor_fin": 3343.0878574629646,
+   "unidad": "por 100.000",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 53.79440595280449,
+   "var_abs": 1169.3495886673677,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     2173.738268795597
+    ],
+    [
+     2019,
+     2219.774954945223
+    ],
+    [
+     2020,
+     2501.450981993323
+    ],
+    [
+     2021,
+     2689.3395193738243
+    ],
+    [
+     2022,
+     3127.837378740348
+    ],
+    [
+     2023,
+     3236.5894752053496
+    ],
+    [
+     2024,
+     3343.0878574629646
+    ]
+   ],
+   "fuente": "Derivado: tabla 03005 ÷ población extranjera (INE 56942)",
+   "nota": "El denominador puede infravalorar a los residentes sin registro, lo que inflaría la tasa.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Cociente entre ambas tasas (extranjera ÷ española)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 3.0963946062693446,
+   "valor_fin": 3.914108136325934,
+   "unidad": "veces",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 26.408569773405,
+   "var_abs": 0.8177135300565892,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     3.0963946062693446
+    ],
+    [
+     2019,
+     3.0694814182206747
+    ],
+    [
+     2020,
+     3.706717425427859
+    ],
+    [
+     2021,
+     3.6680080964928385
+    ],
+    [
+     2022,
+     3.906498258122864
+    ],
+    [
+     2023,
+     3.7788186535903767
+    ],
+    [
+     2024,
+     3.914108136325934
+    ]
+   ],
+   "fuente": "Derivado: tasa extranjera ÷ tasa española (tablas 03001, 03005 e INE 56942)",
+   "nota": "Diferencia bruta: no está corregida por edad, sexo, territorio ni situación socioeconómica.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Personas condenadas por sentencia firme (total)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 286637.0,
+   "valor_fin": 306237.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 6.837916947218958,
+   "var_abs": 19600.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     286637.0
+    ],
+    [
+     2019,
+     286931.0
+    ],
+    [
+     2020,
+     221437.0
+    ],
+    [
+     2021,
+     282210.0
+    ],
+    [
+     2022,
+     308624.0
+    ],
+    [
+     2023,
+     280322.0
+    ],
+    [
+     2024,
+     306807.0
+    ],
+    [
+     2025,
+     306237.0
+    ]
+   ],
+   "fuente": "INE, Estadística de Condenados · tabla 25645",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Personas condenadas de nacionalidad española",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 218695.0,
+   "valor_fin": 214875.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -1.7467248908296984,
+   "var_abs": -3820.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     218695.0
+    ],
+    [
+     2019,
+     215287.0
+    ],
+    [
+     2020,
+     165928.0
+    ],
+    [
+     2021,
+     212259.0
+    ],
+    [
+     2022,
+     230291.0
+    ],
+    [
+     2023,
+     202606.0
+    ],
+    [
+     2024,
+     218990.0
+    ],
+    [
+     2025,
+     214875.0
+    ]
+   ],
+   "fuente": "INE · tabla 25645",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Personas condenadas de nacionalidad extranjera",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 67942.0,
+   "valor_fin": 91362.0,
+   "unidad": "personas",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 34.47057784580967,
+   "var_abs": 23420.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     67942.0
+    ],
+    [
+     2019,
+     71644.0
+    ],
+    [
+     2020,
+     55509.0
+    ],
+    [
+     2021,
+     69951.0
+    ],
+    [
+     2022,
+     78333.0
+    ],
+    [
+     2023,
+     77716.0
+    ],
+    [
+     2024,
+     87817.0
+    ],
+    [
+     2025,
+     91362.0
+    ]
+   ],
+   "fuente": "INE · tabla 25645",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Condenados españoles por 100.000 residentes españoles",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 519.8638158619758,
+   "valor_fin": 508.9855521771364,
+   "unidad": "por 100.000",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -2.0925218014649416,
+   "var_abs": -10.878263684839396,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     519.8638158619758
+    ],
+    [
+     2019,
+     511.7572330009262
+    ],
+    [
+     2020,
+     394.3458400278424
+    ],
+    [
+     2021,
+     505.4014829624657
+    ],
+    [
+     2022,
+     548.6034352397885
+    ],
+    [
+     2023,
+     482.44416023043857
+    ],
+    [
+     2024,
+     519.9512135277635
+    ],
+    [
+     2025,
+     508.9855521771364
+    ]
+   ],
+   "fuente": "Derivado: tabla 25645 ÷ población española (INE 56942)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Condenados extranjeros por 100.000 residentes extranjeros",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 1484.3176861929312,
+   "valor_fin": 1321.7937401647084,
+   "unidad": "por 100.000",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -10.949404399072693,
+   "var_abs": -162.52394602822278,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1484.3176861929312
+    ],
+    [
+     2019,
+     1476.9638254773167
+    ],
+    [
+     2020,
+     1059.073760254655
+    ],
+    [
+     2021,
+     1294.741038835753
+    ],
+    [
+     2022,
+     1421.8977296613607
+    ],
+    [
+     2023,
+     1276.204426548783
+    ],
+    [
+     2024,
+     1350.5566199681896
+    ],
+    [
+     2025,
+     1321.7937401647084
+    ]
+   ],
+   "fuente": "Derivado: tabla 25645 ÷ población extranjera (INE 56942)",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Delitos sexuales de personas condenadas (infracciones, no personas)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 408.0,
+   "valor_fin": 841.0,
+   "unidad": "infracciones",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 106.12745098039214,
+   "var_abs": 433.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     408.0
+    ],
+    [
+     2019,
+     548.0
+    ],
+    [
+     2020,
+     477.0
+    ],
+    [
+     2021,
+     609.0
+    ],
+    [
+     2022,
+     636.0
+    ],
+    [
+     2023,
+     500.0
+    ],
+    [
+     2024,
+     825.0
+    ],
+    [
+     2025,
+     841.0
+    ]
+   ],
+   "fuente": "INE, Estadística de Condenados · tabla 28752",
+   "nota": "Cuenta infracciones asociadas a condenas firmes; el año de condena no es el de comisión.",
+   "invertir_color": true
+  },
+  {
+   "bloque": "crimen_nac",
+   "descripcion": "Detenidos e investigados menores de 14 a 17 años",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 18670.0,
+   "valor_fin": 23622.0,
+   "unidad": "actuaciones",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 26.52383502945903,
+   "var_abs": 4952.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     18670.0
+    ],
+    [
+     2019,
+     19997.0
+    ],
+    [
+     2020,
+     20765.0
+    ],
+    [
+     2021,
+     23431.0
+    ],
+    [
+     2022,
+     24449.0
+    ],
+    [
+     2023,
+     24552.0
+    ],
+    [
+     2024,
+     23622.0
+    ]
+   ],
+   "fuente": "Ministerio del Interior, Portal Estadístico de Criminalidad · años naturales completos · tablas 03003 y 03009",
+   "nota": "",
+   "invertir_color": true
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Ingresos totales de las administraciones públicas",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 472250.0,
+   "valor_fin": 673734.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 42.66469031233457,
+   "var_abs": 201484.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     472250.0
+    ],
+    [
+     2019,
+     488347.0
+    ],
+    [
+     2020,
+     468267.0
+    ],
+    [
+     2021,
+     528950.0
+    ],
+    [
+     2022,
+     574012.0
+    ],
+    [
+     2023,
+     630198.0
+    ],
+    [
+     2024,
+     673734.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10a_main",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Ingresos públicos sobre el PIB (presión fiscal en sentido amplio)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 39.0,
+   "valor_fin": 42.3,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 8.461538461538453,
+   "var_abs": 3.299999999999997,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     39.0
+    ],
+    [
+     2019,
+     39.0
+    ],
+    [
+     2020,
+     41.5
+    ],
+    [
+     2021,
+     42.8
+    ],
+    [
+     2022,
+     41.7
+    ],
+    [
+     2023,
+     42.1
+    ],
+    [
+     2024,
+     42.3
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10a_main",
+   "nota": "Media de la UE-27 en 2024: 46,0 %, frente a 39,0 % en 2018. España recauda menos que la media europea pero es de las que más ha subido.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Ingresos públicos reales por habitante (euros de 2018)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 10124.328251624447,
+   "valor_fin": 11611.047423655877,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 14.68462040227594,
+   "var_abs": 1486.7191720314295,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     10124.328251624447
+    ],
+    [
+     2019,
+     10336.0079407569
+    ],
+    [
+     2020,
+     9859.236478558156
+    ],
+    [
+     2021,
+     10783.898478787329
+    ],
+    [
+     2022,
+     10777.152576629162
+    ],
+    [
+     2023,
+     11286.085009532657
+    ],
+    [
+     2024,
+     11611.047423655877
+    ]
+   ],
+   "fuente": "Derivado: gov_10a_main deflactado con el IPC (INE 50902) y dividido por la población (INE 56942)",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Impuestos sobre la renta y el patrimonio recaudados",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 127284.0,
+   "valor_fin": 198711.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 56.116243989818045,
+   "var_abs": 71427.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     127284.0
+    ],
+    [
+     2019,
+     129117.0
+    ],
+    [
+     2020,
+     125348.0
+    ],
+    [
+     2021,
+     143485.0
+    ],
+    [
+     2022,
+     164770.0
+    ],
+    [
+     2023,
+     183119.0
+    ],
+    [
+     2024,
+     198711.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · partida D5 (recursos)",
+   "nota": "Es la partida que más crece. Pasa del 10,5 % al 12,5 % del PIB.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Cotizaciones sociales recaudadas",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 149450.0,
+   "valor_fin": 210337.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 40.74071595851456,
+   "var_abs": 60887.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     149450.0
+    ],
+    [
+     2019,
+     160656.0
+    ],
+    [
+     2020,
+     162174.0
+    ],
+    [
+     2021,
+     171687.0
+    ],
+    [
+     2022,
+     180086.0
+    ],
+    [
+     2023,
+     197003.0
+    ],
+    [
+     2024,
+     210337.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · partida D61 (recursos)",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Impuestos sobre la producción y las importaciones",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 141184.0,
+   "valor_fin": 176937.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 25.323691069809605,
+   "var_abs": 35753.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     141184.0
+    ],
+    [
+     2019,
+     143058.0
+    ],
+    [
+     2020,
+     126756.0
+    ],
+    [
+     2021,
+     146953.0
+    ],
+    [
+     2022,
+     160429.0
+    ],
+    [
+     2023,
+     165865.0
+    ],
+    [
+     2024,
+     176937.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · partida D2 (recursos)",
+   "nota": "IVA e impuestos especiales, principalmente. Pierde peso: del 11,6 % al 11,1 % del PIB.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto público total",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 503193.0,
+   "valor_fin": 725001.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 44.080104452963376,
+   "var_abs": 221808.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     503193.0
+    ],
+    [
+     2019,
+     526769.0
+    ],
+    [
+     2020,
+     580164.0
+    ],
+    [
+     2021,
+     611124.0
+    ],
+    [
+     2022,
+     637117.0
+    ],
+    [
+     2023,
+     680225.0
+    ],
+    [
+     2024,
+     725001.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10a_exp",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto público total sobre el PIB",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 41.5,
+   "valor_fin": 45.5,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 9.63855421686748,
+   "var_abs": 4.0,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     41.5
+    ],
+    [
+     2019,
+     42.0
+    ],
+    [
+     2020,
+     51.4
+    ],
+    [
+     2021,
+     49.5
+    ],
+    [
+     2022,
+     46.3
+    ],
+    [
+     2023,
+     45.4
+    ],
+    [
+     2024,
+     45.5
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10a_exp",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Déficit público (capacidad o necesidad de financiación)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": -2.6,
+   "valor_fin": -3.2,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 23.076923076923084,
+   "var_abs": -0.6000000000000001,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     -2.6
+    ],
+    [
+     2019,
+     -3.1
+    ],
+    [
+     2020,
+     -9.9
+    ],
+    [
+     2021,
+     -6.7
+    ],
+    [
+     2022,
+     -4.6
+    ],
+    [
+     2023,
+     -3.3
+    ],
+    [
+     2024,
+     -3.2
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10a_main",
+   "nota": "Negativo significa déficit. El Estado gastó cada año más de lo que ingresó durante todo el periodo.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Deuda pública",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 1209741.8,
+   "valor_fin": 1620573.4,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 33.96027152240253,
+   "var_abs": 410831.59999999986,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1209741.8
+    ],
+    [
+     2019,
+     1224363.8
+    ],
+    [
+     2020,
+     1346916.4
+    ],
+    [
+     2021,
+     1429403.6
+    ],
+    [
+     2022,
+     1504105.1
+    ],
+    [
+     2023,
+     1575376.7
+    ],
+    [
+     2024,
+     1620573.4
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10dd_edpt1 (Protocolo de Déficit Excesivo)",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Deuda pública sobre el PIB",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 99.8,
+   "valor_fin": 101.6,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 1.8036072144288484,
+   "var_abs": 1.7999999999999972,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     99.8
+    ],
+    [
+     2019,
+     97.7
+    ],
+    [
+     2020,
+     119.3
+    ],
+    [
+     2021,
+     115.7
+    ],
+    [
+     2022,
+     109.3
+    ],
+    [
+     2023,
+     105.2
+    ],
+    [
+     2024,
+     101.6
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · gov_10dd_edpt1",
+   "nota": "En euros la deuda crece un tercio, pero sobre el PIB apenas se mueve porque el PIB nominal creció mucho por la inflación.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en protección social",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 203470.0,
+   "valor_fin": 297532.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 46.22892809750822,
+   "var_abs": 94062.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     203470.0
+    ],
+    [
+     2019,
+     216733.0
+    ],
+    [
+     2020,
+     247445.0
+    ],
+    [
+     2021,
+     248671.0
+    ],
+    [
+     2022,
+     252111.0
+    ],
+    [
+     2023,
+     277327.0
+    ],
+    [
+     2024,
+     297532.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · clasificación funcional COFOG, función 10",
+   "nota": "Incluye pensiones, incapacidad, viudedad, desempleo, familia, vivienda social y exclusión social. No es solo «ayudas».",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en protección social real por habitante (euros de 2018)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 4362.090141573376,
+   "valor_fin": 5127.629245451736,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 17.549823113060082,
+   "var_abs": 765.53910387836,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4362.090141573376
+    ],
+    [
+     2019,
+     4587.217714092778
+    ],
+    [
+     2020,
+     5209.888312515772
+    ],
+    [
+     2021,
+     5069.747270287406
+    ],
+    [
+     2022,
+     4733.417965559177
+    ],
+    [
+     2023,
+     4966.591606826209
+    ],
+    [
+     2024,
+     5127.629245451736
+    ]
+   ],
+   "fuente": "Derivado: COFOG función 10 deflactada con el IPC y dividida por la población",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en sanidad",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 72146.0,
+   "valor_fin": 102942.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 42.6856651789427,
+   "var_abs": 30796.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     72146.0
+    ],
+    [
+     2019,
+     75917.0
+    ],
+    [
+     2020,
+     85545.0
+    ],
+    [
+     2021,
+     88541.0
+    ],
+    [
+     2022,
+     93327.0
+    ],
+    [
+     2023,
+     98630.0
+    ],
+    [
+     2024,
+     102942.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG función 7",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en sanidad real por habitante (euros de 2018)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 1546.701505646792,
+   "valor_fin": 1774.0895425879994,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 14.701481579415642,
+   "var_abs": 227.38803694120747,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1546.701505646792
+    ],
+    [
+     2019,
+     1606.8056419686038
+    ],
+    [
+     2020,
+     1801.1271017565991
+    ],
+    [
+     2021,
+     1805.1179794126265
+    ],
+    [
+     2022,
+     1752.2269891902426
+    ],
+    [
+     2023,
+     1766.3441719748491
+    ],
+    [
+     2024,
+     1774.0895425879994
+    ]
+   ],
+   "fuente": "Derivado: COFOG función 7 deflactada con el IPC y dividida por la población",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en educación",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 47764.0,
+   "valor_fin": 65862.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 37.89046143539068,
+   "var_abs": 18098.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     47764.0
+    ],
+    [
+     2019,
+     50052.0
+    ],
+    [
+     2020,
+     52003.0
+    ],
+    [
+     2021,
+     55885.0
+    ],
+    [
+     2022,
+     58669.0
+    ],
+    [
+     2023,
+     62532.0
+    ],
+    [
+     2024,
+     65862.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG función 9",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en educación real por habitante (euros de 2018)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 1023.9881728122608,
+   "valor_fin": 1135.057463949902,
+   "unidad": "€ de 2018",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 10.846735742328239,
+   "var_abs": 111.06929113764124,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     1023.9881728122608
+    ],
+    [
+     2019,
+     1059.3653067404211
+    ],
+    [
+     2020,
+     1094.9092603033307
+    ],
+    [
+     2021,
+     1139.3480791890156
+    ],
+    [
+     2022,
+     1101.5183733410734
+    ],
+    [
+     2023,
+     1119.8725921315145
+    ],
+    [
+     2024,
+     1135.057463949902
+    ]
+   ],
+   "fuente": "Derivado: COFOG función 9 deflactada con el IPC y dividida por la población",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en pensiones de jubilación (vejez)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 112641.0,
+   "valor_fin": 165050.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 46.52746335703697,
+   "var_abs": 52409.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     112641.0
+    ],
+    [
+     2019,
+     118714.0
+    ],
+    [
+     2020,
+     122744.0
+    ],
+    [
+     2021,
+     129584.0
+    ],
+    [
+     2022,
+     137505.0
+    ],
+    [
+     2023,
+     153051.0
+    ],
+    [
+     2024,
+     165050.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG 10.2",
+   "nota": "Es el 55,5 % de todo el gasto en protección social y explica por sí solo más de la mitad de su aumento.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en prestaciones por desempleo",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 18647.0,
+   "valor_fin": 24077.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 29.11996567812516,
+   "var_abs": 5430.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     18647.0
+    ],
+    [
+     2019,
+     20087.0
+    ],
+    [
+     2020,
+     42338.0
+    ],
+    [
+     2021,
+     32137.0
+    ],
+    [
+     2022,
+     21609.0
+    ],
+    [
+     2023,
+     22995.0
+    ],
+    [
+     2024,
+     24077.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG 10.5",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en familia e hijos",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 9981.0,
+   "valor_fin": 15294.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 53.231139164412376,
+   "var_abs": 5313.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     9981.0
+    ],
+    [
+     2019,
+     11671.0
+    ],
+    [
+     2020,
+     11657.0
+    ],
+    [
+     2021,
+     12625.0
+    ],
+    [
+     2022,
+     13229.0
+    ],
+    [
+     2023,
+     14664.0
+    ],
+    [
+     2024,
+     15294.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG 10.4",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en exclusión social (partida donde se registra el Ingreso Mínimo Vital)",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 4079.0,
+   "valor_fin": 10878.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 166.6830105417995,
+   "var_abs": 6799.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     4079.0
+    ],
+    [
+     2019,
+     4542.0
+    ],
+    [
+     2020,
+     5760.0
+    ],
+    [
+     2021,
+     7088.0
+    ],
+    [
+     2022,
+     9284.0
+    ],
+    [
+     2023,
+     10224.0
+    ],
+    [
+     2024,
+     10878.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG 10.7",
+   "nota": "Es la partida que más crece en términos relativos, pero sigue siendo el 3,7 % del gasto en protección social.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "publico",
+   "descripcion": "Gasto en orden público y seguridad",
+   "anyo_ini": 2018,
+   "anyo_fin": 2024,
+   "valor_ini": 21542.0,
+   "valor_fin": 28628.0,
+   "unidad": "millones €",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 32.89388171943182,
+   "var_abs": 7086.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     21542.0
+    ],
+    [
+     2019,
+     22685.0
+    ],
+    [
+     2020,
+     23458.0
+    ],
+    [
+     2021,
+     24540.0
+    ],
+    [
+     2022,
+     25798.0
+    ],
+    [
+     2023,
+     27414.0
+    ],
+    [
+     2024,
+     28628.0
+    ]
+   ],
+   "fuente": "Eurostat, cuentas de las administraciones públicas (SEC 2010) · los mismos datos que la IGAE notifica a la UE · COFOG función 3",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Pacientes en espera para intervención quirúrgica",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 668288.0,
+   "valor_fin": 853509.0,
+   "unidad": "pacientes",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 27.715745307412366,
+   "var_abs": 185221.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     668288.0
+    ],
+    [
+     2020,
+     649879.0
+    ],
+    [
+     2021,
+     706740.0
+    ],
+    [
+     2022,
+     793521.0
+    ],
+    [
+     2023,
+     849535.0
+    ],
+    [
+     2024,
+     846583.0
+    ],
+    [
+     2025,
+     853509.0
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "Espera estructural. La fuente original es PDF; la conversión a CSV es propia y reproducible con scripts/13_listas_espera.py.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Pacientes en espera quirúrgica por 1.000 habitantes",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 14.78,
+   "valor_fin": 17.69,
+   "unidad": "por 1.000 hab.",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 19.688768606224638,
+   "var_abs": 2.910000000000002,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     14.78
+    ],
+    [
+     2020,
+     14.2
+    ],
+    [
+     2021,
+     15.39
+    ],
+    [
+     2022,
+     17.1
+    ],
+    [
+     2023,
+     18.11
+    ],
+    [
+     2024,
+     17.8
+    ],
+    [
+     2025,
+     17.69
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "Corrige por el crecimiento de la población: es la medida comparable en el tiempo.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Tiempo medio de espera para intervención quirúrgica",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 129.0,
+   "valor_fin": 121.0,
+   "unidad": "días",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": -6.2015503875969,
+   "var_abs": -8.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     129.0
+    ],
+    [
+     2020,
+     155.0
+    ],
+    [
+     2021,
+     123.0
+    ],
+    [
+     2022,
+     120.0
+    ],
+    [
+     2023,
+     128.0
+    ],
+    [
+     2024,
+     126.0
+    ],
+    [
+     2025,
+     121.0
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Pacientes que esperan más de 6 meses para operarse",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 20.0,
+   "valor_fin": 21.6,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 8.000000000000007,
+   "var_abs": 1.6000000000000014,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     20.0
+    ],
+    [
+     2020,
+     27.4
+    ],
+    [
+     2021,
+     20.3
+    ],
+    [
+     2022,
+     20.8
+    ],
+    [
+     2023,
+     24.3
+    ],
+    [
+     2024,
+     22.9
+    ],
+    [
+     2025,
+     21.6
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Pacientes en espera de primera consulta con especialista, por 1.000 habitantes",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 62.48,
+   "valor_fin": 84.42,
+   "unidad": "por 1.000 hab.",
+   "fmt": "num",
+   "dec": 2,
+   "var_pct": 35.11523687580027,
+   "var_abs": 21.940000000000005,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     62.48
+    ],
+    [
+     2019,
+     63.72
+    ],
+    [
+     2020,
+     53.6
+    ],
+    [
+     2021,
+     77.23
+    ],
+    [
+     2022,
+     85.43
+    ],
+    [
+     2023,
+     81.47
+    ],
+    [
+     2024,
+     83.21
+    ],
+    [
+     2025,
+     84.42
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "El SISLE no publica el número absoluto de pacientes en consultas externas, solo la tasa.",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Tiempo medio de espera para primera consulta con especialista",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 96.0,
+   "valor_fin": 102.0,
+   "unidad": "días",
+   "fmt": "num",
+   "dec": 0,
+   "var_pct": 6.25,
+   "var_abs": 6.0,
+   "pp": false,
+   "serie": [
+    [
+     2018,
+     96.0
+    ],
+    [
+     2019,
+     88.0
+    ],
+    [
+     2020,
+     99.0
+    ],
+    [
+     2021,
+     89.0
+    ],
+    [
+     2022,
+     95.0
+    ],
+    [
+     2023,
+     101.0
+    ],
+    [
+     2024,
+     105.0
+    ],
+    [
+     2025,
+     102.0
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "",
+   "invertir_color": false
+  },
+  {
+   "bloque": "servicios",
+   "descripcion": "Pacientes que esperan más de 60 días para una primera consulta",
+   "anyo_ini": 2018,
+   "anyo_fin": 2025,
+   "valor_ini": 43.8,
+   "valor_fin": 61.5,
+   "unidad": "%",
+   "fmt": "num",
+   "dec": 1,
+   "var_pct": 40.41095890410959,
+   "var_abs": 17.700000000000003,
+   "pp": true,
+   "serie": [
+    [
+     2018,
+     43.8
+    ],
+    [
+     2019,
+     49.1
+    ],
+    [
+     2020,
+     47.2
+    ],
+    [
+     2021,
+     52.2
+    ],
+    [
+     2022,
+     55.7
+    ],
+    [
+     2023,
+     56.3
+    ],
+    [
+     2024,
+     62.3
+    ],
+    [
+     2025,
+     61.5
+    ]
+   ],
+   "fuente": "Ministerio de Sanidad, Sistema de Información sobre Listas de Espera del SNS · corte a 31 de diciembre · 17 CCAA e INGESA",
+   "nota": "",
+   "invertir_color": false
+  }
+ ],
+ "descomposicion_crimen": {
+  "delta_detenidos_total": 182283.0,
+  "delta_detenidos_espanoles": 64405.0,
+  "delta_detenidos_extranjeros": 117878.0,
+  "pct_del_aumento_atribuible_grupo_extranjero": 64.66757733853403,
+  "efecto_poblacion": 41843.59217900773,
+  "efecto_tasa": 53524.89597898093,
+  "efecto_interaccion": 22509.51184201136,
+  "comprobacion_suma": 117878.00000000001
+ },
+ "extra_demografia": {
+  "nacidos_fuera_llegados_desde_2018_stock_2025": 4796994.0,
+  "salto_serie_2021": 39919.11330000311,
+  "salto_serie_2022": 102805.42890399694
+ }
+}

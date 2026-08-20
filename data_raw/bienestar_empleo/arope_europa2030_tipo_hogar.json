@@ -1,0 +1,722 @@
+[
+  {
+    "COD": "MYH20077",
+    "Nombre": "Total. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 8695,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 25.7
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 25.8
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 26.5
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 27.8
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 27.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 26.2
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 27.3
+      }
+    ]
+  },
+  {
+    "COD": "MYH20076",
+    "Nombre": "Hogares de una persona. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284018,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "Hogares de una persona",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 31.4
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 31.4
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 32.4
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 32.2
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 34.6
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 32.6
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 27.4
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 29.5
+      }
+    ]
+  },
+  {
+    "COD": "MYH20075",
+    "Nombre": "2 adultos sin niños dependientes. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284019,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "2 adultos sin niños dependientes",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 20.2
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 19.4
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 20.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 20.8
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 21.1
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 21.8
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 21.5
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 23.7
+      }
+    ]
+  },
+  {
+    "COD": "MYH20074",
+    "Nombre": "Otros hogares sin niños dependientes. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284020,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "Otros hogares sin niños dependientes",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 16.7
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 16.8
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 18.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 18.4
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 21.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 22.7
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 22.8
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 22.8
+      }
+    ]
+  },
+  {
+    "COD": "MYH20073",
+    "Nombre": "1 adulto con 1 ó más niños dependientes. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284021,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "1 adulto con 1 ó más niños dependientes",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 50.6
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 50.3
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 52.7
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 49.2
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 54.3
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 49.8
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 47.6
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 51.1
+      }
+    ]
+  },
+  {
+    "COD": "MYH20072",
+    "Nombre": "2 adultos con 1 ó más niños dependientes. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284022,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "2 adultos con 1 ó más niños dependientes",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 27.4
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 28.3
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 28.5
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 26.8
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 27.6
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 24.9
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 25.3
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 26.4
+      }
+    ]
+  },
+  {
+    "COD": "MYH20071",
+    "Nombre": "Otros hogares con niños dependientes. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284023,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "Otros hogares con niños dependientes",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 30.8
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 30.2
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 30.3
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 37.3
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 37.8
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 35.6
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 34.7
+      }
+    ]
+  },
+  {
+    "COD": "MYH20070",
+    "Nombre": "No consta. Tasa de riesgo de pobreza o exclusión social (indicador AROPE). España. Porcentaje. ",
+    "T3_Unidad": "Porcentaje",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 284036,
+        "T3_Variable": "Tipo de hogar",
+        "Nombre": "No consta",
+        "Codigo": ""
+      },
+      {
+        "Id": 284043,
+        "T3_Variable": "Conceptos demógraficos",
+        "Nombre": "Tasa de riesgo de pobreza o exclusión social (indicador AROPE)",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "España",
+        "Codigo": "00"
+      },
+      {
+        "Id": 77,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Porcentaje",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 21.6
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 39.1
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 33.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 37.1
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 26.3
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 13.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 36.4
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 36.4
+      }
+    ]
+  }
+]

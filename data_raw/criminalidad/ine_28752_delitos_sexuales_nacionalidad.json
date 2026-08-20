@@ -1,0 +1,2708 @@
+[
+  {
+    "COD": "CON58903",
+    "Nombre": "Dato base. Delitos. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311383,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Delitos",
+        "Codigo": "A"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 841.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 825.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 500.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 636.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 609.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 477.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 548.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 408.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58902",
+    "Nombre": "Dato base. Delitos. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311383,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Delitos",
+        "Codigo": "A"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 676.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 697.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 406.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 512.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 497.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 376.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 411.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 312.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58901",
+    "Nombre": "Dato base. Delitos. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311383,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Delitos",
+        "Codigo": "A"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 165.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 128.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 94.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 124.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 112.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 101.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 137.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 96.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58900",
+    "Nombre": "Dato base. Contra la libertad e indemnidad sexuales. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311265,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Contra la libertad e indemnidad sexuales",
+        "Codigo": "8"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 841.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 825.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 500.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 636.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 609.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 477.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 548.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 408.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58899",
+    "Nombre": "Dato base. Contra la libertad e indemnidad sexuales. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311265,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Contra la libertad e indemnidad sexuales",
+        "Codigo": "8"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 676.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 697.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 406.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 512.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 497.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 376.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 411.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 312.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58898",
+    "Nombre": "Dato base. Contra la libertad e indemnidad sexuales. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311265,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Contra la libertad e indemnidad sexuales",
+        "Codigo": "8"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 165.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 128.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 94.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 124.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 112.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 101.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 137.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 96.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58897",
+    "Nombre": "Dato base. Agresiones sexuales. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311266,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresiones sexuales",
+        "Codigo": "8.1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 250.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 119.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 64.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 31.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 55.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 54.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 60.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 69.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58896",
+    "Nombre": "Dato base. Agresiones sexuales. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311266,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresiones sexuales",
+        "Codigo": "8.1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 178.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 89.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 45.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 16.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 36.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 33.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 43.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 39.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58895",
+    "Nombre": "Dato base. Agresiones sexuales. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311266,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresiones sexuales",
+        "Codigo": "8.1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 72.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 30.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 19.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 15.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 19.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 21.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 17.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 30.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58894",
+    "Nombre": "Dato base. Agresión sexual. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 316905,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresión sexual",
+        "Codigo": "8.1.1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 219.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 110.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 59.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 27.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 52.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 47.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 54.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 61.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58893",
+    "Nombre": "Dato base. Agresión sexual. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 316905,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresión sexual",
+        "Codigo": "8.1.1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 154.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 82.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 42.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 14.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 35.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 28.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 38.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 33.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58892",
+    "Nombre": "Dato base. Agresión sexual. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 316905,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresión sexual",
+        "Codigo": "8.1.1"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 65.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 28.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 17.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 13.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 17.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 19.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 16.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 28.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58891",
+    "Nombre": "Dato base. Violación. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 316906,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Violación",
+        "Codigo": "8.1.2"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 31.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 9.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 5.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 4.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 3.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 7.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 6.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 8.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58890",
+    "Nombre": "Dato base. Violación. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 316906,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Violación",
+        "Codigo": "8.1.2"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 24.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 7.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 3.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 5.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 5.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 6.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58889",
+    "Nombre": "Dato base. Violación. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 316906,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Violación",
+        "Codigo": "8.1.2"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 7.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62256",
+    "Nombre": "Dato base. Agresiones sexuales a menores de 16 años. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 446661,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresiones sexuales a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 491.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62255",
+    "Nombre": "Dato base. Agresiones sexuales a menores de 16 años. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 446661,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresiones sexuales a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 417.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62254",
+    "Nombre": "Dato base. Agresiones sexuales a menores de 16 años. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 446661,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresiones sexuales a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 74.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62253",
+    "Nombre": "Dato base. Agresión sexual a menores de 16 años. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 457370,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresión sexual a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 421.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62252",
+    "Nombre": "Dato base. Agresión sexual a menores de 16 años. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 457370,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresión sexual a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 359.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62251",
+    "Nombre": "Dato base. Agresión sexual a menores de 16 años. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 457370,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Agresión sexual a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 62.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62250",
+    "Nombre": "Dato base. Violación a menores de 16 años. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 457371,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Violación a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 70.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62249",
+    "Nombre": "Dato base. Violación a menores de 16 años. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 457371,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Violación a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 58.0
+      }
+    ]
+  },
+  {
+    "COD": "CON62248",
+    "Nombre": "Dato base. Violación a menores de 16 años. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 457371,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Violación a menores de 16 años",
+        "Codigo": ""
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 12.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58882",
+    "Nombre": "Dato base. Acoso sexual. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311269,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Acoso sexual",
+        "Codigo": "8.3"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 3.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58881",
+    "Nombre": "Dato base. Acoso sexual. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311269,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Acoso sexual",
+        "Codigo": "8.3"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 1.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58880",
+    "Nombre": "Dato base. Acoso sexual. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311269,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Acoso sexual",
+        "Codigo": "8.3"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 1.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 0.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58879",
+    "Nombre": "Dato base. Exhibicionismo y provocación sexual. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311270,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Exhibicionismo y provocación sexual",
+        "Codigo": "8.4"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 34.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 20.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 10.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 19.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 20.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 30.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 23.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 19.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58878",
+    "Nombre": "Dato base. Exhibicionismo y provocación sexual. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311270,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Exhibicionismo y provocación sexual",
+        "Codigo": "8.4"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 27.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 20.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 10.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 15.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 18.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 27.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 21.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 16.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58877",
+    "Nombre": "Dato base. Exhibicionismo y provocación sexual. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311270,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Exhibicionismo y provocación sexual",
+        "Codigo": "8.4"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 7.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 0.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 4.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 3.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 2.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 3.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58876",
+    "Nombre": "Dato base. Prostitución y corrupción menores. Total Nacional. Total. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311271,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Prostitución y corrupción menores",
+        "Codigo": "8.5"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 16420,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Total",
+        "Codigo": ""
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 65.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 229.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 32.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 61.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 66.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 56.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 52.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 43.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58875",
+    "Nombre": "Dato base. Prostitución y corrupción menores. Total Nacional. Española. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311271,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Prostitución y corrupción menores",
+        "Codigo": "8.5"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 21386,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Española",
+        "Codigo": "1"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 53.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 204.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 24.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 57.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 52.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 50.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 46.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 41.0
+      }
+    ]
+  },
+  {
+    "COD": "CON58874",
+    "Nombre": "Dato base. Prostitución y corrupción menores. Total Nacional. Extranjera. Por delitos sexuales. ",
+    "T3_Unidad": "Infracciones",
+    "T3_Escala": " ",
+    "MetaData": [
+      {
+        "Id": 72,
+        "T3_Variable": "Tipo de dato",
+        "Nombre": "Dato base",
+        "Codigo": ""
+      },
+      {
+        "Id": 311271,
+        "T3_Variable": "Delitos Faltas",
+        "Nombre": "Prostitución y corrupción menores",
+        "Codigo": "8.5"
+      },
+      {
+        "Id": 16473,
+        "T3_Variable": "Total Nacional",
+        "Nombre": "Total Nacional",
+        "Codigo": "00"
+      },
+      {
+        "Id": 274512,
+        "T3_Variable": "Nacionalidad",
+        "Nombre": "Extranjera",
+        "Codigo": "2"
+      },
+      {
+        "Id": 316904,
+        "T3_Variable": "Condenados",
+        "Nombre": "Por delitos sexuales",
+        "Codigo": ""
+      }
+    ],
+    "Data": [
+      {
+        "Fecha": "2025-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2025,
+        "Valor": 12.0
+      },
+      {
+        "Fecha": "2024-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2024,
+        "Valor": 25.0
+      },
+      {
+        "Fecha": "2023-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2023,
+        "Valor": 8.0
+      },
+      {
+        "Fecha": "2022-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2022,
+        "Valor": 4.0
+      },
+      {
+        "Fecha": "2021-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2021,
+        "Valor": 14.0
+      },
+      {
+        "Fecha": "2020-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2020,
+        "Valor": 6.0
+      },
+      {
+        "Fecha": "2019-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2019,
+        "Valor": 6.0
+      },
+      {
+        "Fecha": "2018-01-01T00:00:00.000+01:00",
+        "T3_TipoDato": "Definitivo",
+        "T3_Periodo": "A",
+        "Anyo": 2018,
+        "Valor": 2.0
+      }
+    ]
+  }
+]
