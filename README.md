@@ -10,6 +10,8 @@ Abre en cualquier navegador:
 
 Es un documento HTML autónomo en cuanto a datos y gráficos. Usa Google Fonts si hay conexión; sin conexión mantiene el contenido y recurre a tipografías del sistema.
 
+https://ivancarrillo.com/recursos/analisis-espana-2018-2025
+
 ## Fuentes
 
 Los datos proceden exclusivamente de organismos públicos:
